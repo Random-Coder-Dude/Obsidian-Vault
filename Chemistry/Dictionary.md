@@ -40,7 +40,6 @@ cssclasses:
 | Accuracy                                                  | How closely individual measurements agree with the correct, or “true,” value                                                |
 | Dimensional Analysis                                      | In this approach, units are multiplied together, divided into each other, or “canceled”                                     |
 | Conversion Factor                                         | fraction whose numerator and denominator are the same quantity expressed in different units                                 |
-|                                                           |                                                                                                                             |
 
 ## References
 [[1.1 - The Study of Chemistry]]
