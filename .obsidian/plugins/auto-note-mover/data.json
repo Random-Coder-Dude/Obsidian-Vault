@@ -5,8 +5,8 @@
   "folder_tag_pattern": [
     {
       "folder": "Chemistry/1 - Introduction, Matter and Measurement",
-      "tag": "",
-      "pattern": "^1.*-.*$"
+      "tag": "#Chemistry",
+      "pattern": ""
     },
     {
       "folder": "PreCalc",
