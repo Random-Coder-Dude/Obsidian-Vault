@@ -8,7 +8,7 @@ cssclasses:
 > _"Research is creating new knowledge."_ — Neil Armstrong
 
 ---
-# Hop 
+# Hop In!
 ``` dataview
 table file.mtime as "Last Modified"
 from ""
