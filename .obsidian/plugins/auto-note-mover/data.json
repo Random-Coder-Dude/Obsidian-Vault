@@ -4,9 +4,9 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "Chemistry",
-      "tag": "#Chemistry",
-      "pattern": ""
+      "folder": "Chemistry/1 - Introduction, Matter and Measurement",
+      "tag": "",
+      "pattern": "^1.*-.*$"
     },
     {
       "folder": "PreCalc",
@@ -15,9 +15,5 @@
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
-  "excluded_folder": [
-    {
-      "folder": ""
-    }
-  ]
+  "excluded_folder": []
 }
