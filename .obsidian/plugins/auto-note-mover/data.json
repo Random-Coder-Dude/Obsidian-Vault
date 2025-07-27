@@ -5,6 +5,11 @@
   "folder_tag_pattern": [
     {
       "folder": "Chemistry/1 - Introduction, Matter and Measurement",
+      "tag": "#Ch1",
+      "pattern": ""
+    },
+    {
+      "folder": "Chemistry/1 - Introduction, Matter and Measurement",
       "tag": "#Chemistry",
       "pattern": ""
     },
@@ -15,5 +20,9 @@
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
-  "excluded_folder": []
+  "excluded_folder": [
+    {
+      "folder": "Chemistry/1 - Introduction, Matter and Measurement"
+    }
+  ]
 }
