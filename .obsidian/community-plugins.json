@@ -1,10 +1,10 @@
 [
   "find-orphaned-images",
-  "table-editor-obsidian",
   "templater-obsidian",
   "calendar",
   "homepage",
   "pexels-banner",
   "obsidian-git",
-  "auto-note-mover"
+  "auto-note-mover",
+  "dataview"
 ]

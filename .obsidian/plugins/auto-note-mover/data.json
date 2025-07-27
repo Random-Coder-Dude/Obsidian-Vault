@@ -4,12 +4,7 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "Chemistry/1 - Introduction, Matter and Measurement",
-      "tag": "#Ch1",
-      "pattern": ""
-    },
-    {
-      "folder": "Chemistry/1 - Introduction, Matter and Measurement",
+      "folder": "Chemistry",
       "tag": "#Chemistry",
       "pattern": ""
     },
@@ -17,12 +12,13 @@
       "folder": "PreCalc",
       "tag": "#PreCalc",
       "pattern": ""
+    },
+    {
+      "folder": "Daily Note",
+      "tag": "#Daily",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
-  "excluded_folder": [
-    {
-      "folder": "Chemistry/1 - Introduction, Matter and Measurement"
-    }
-  ]
+  "excluded_folder": []
 }

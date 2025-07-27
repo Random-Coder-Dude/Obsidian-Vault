@@ -160,23 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/1 - Introduction, Matter and Measurement/Untitled.md",
+                "file": "Main.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
-            }
-          },
-          {
-            "id": "0fc55cd2f6508159",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Outline of Main"
             }
           }
         ],
@@ -203,18 +193,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6f9ea4536d9bc1c5",
+  "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
-    "Main.md",
-    "Chemistry/1 - Introduction, Matter and Measurement/Untitled.md",
-    "Chemistry/1 - Introduction, Matter and Measurement/ssjsj.md",
-    "Chemistry/1 - Introduction, Matter and Measurement/Untitled.md",
-    "Chemistry/1 - Introduction, Matter and Measurement/1.4 - Units of Measurement.md",
-    "Chemistry/1 - Introduction, Matter and Measurement/1.5 - Uncertainty in Measurement.md",
-    "Chemistry/1 - Introduction, Matter and Measurement/1.3 - Properties of Matter.md",
     "Chemistry/1 - Introduction, Matter and Measurement/1.2 - Classifications of Matter.md",
     "Chemistry/1 - Introduction, Matter and Measurement/1.1 - The Study of Chemistry.md",
+    "Chemistry/1 - Introduction, Matter and Measurement/1.3 - Properties of Matter.md",
+    "Chemistry/1 - Introduction, Matter and Measurement/1.4 - Units of Measurement.md",
+    "Chemistry/1 - Introduction, Matter and Measurement/1.5 - Uncertainty in Measurement.md",
     "Chemistry/1 - Introduction, Matter and Measurement/1.6 - Dimension Analysis.md",
+    "Chemistry/Dictionary.md",
+    "Chemistry/Table.md",
+    "Chemistry/1 - Introduction, Matter and Measurement/Untitled.md",
+    "Main.md",
+    "Chemistry/1 - Introduction, Matter and Measurement/ssjsj.md",
     "Daily Note/2025-07-27.md",
     "Daily Note/2025-07-26.md",
     "Chemistry/1 - Introduction, Matter and Measurement/1 - 64.md",
@@ -222,8 +213,6 @@
     "Chemistry/jdjd.md",
     "Templates/Daily Note.md",
     "PreCalc/Untitled.md",
-    "Chemistry/Table.md",
-    "Chemistry/Dictionary.md",
     "Daily Note/{{date}}.md",
     "Daily Notes/2025-07-26.md",
     "Daily Notes",

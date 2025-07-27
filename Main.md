@@ -6,3 +6,8 @@ cssclasses:
 # 🎓 Academic Research Hub
 
 > _"Research is creating new knowledge."_ — Neil Armstrong
+
+---
+``` dataview
+
+```
