@@ -6,6 +6,7 @@ tR += "cssclasses:\n  - daily\n  - " + tp.date.now("dddd").toLowerCase() + "\n";
 tR += "---\n\n";
 %>
 
+<% tp.web.daily_quote() %>
 # DAILY NOTE  
 ## <% tp.date.now("dddd, MMMM Do, YYYY") %>  
 ***  
