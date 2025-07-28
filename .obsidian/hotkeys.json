@@ -30,5 +30,13 @@
       ],
       "key": "`"
     }
+  ],
+  "quote-of-the-day:qotd-random": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
   ]
 }
