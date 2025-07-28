@@ -11,3 +11,4 @@ tR += "---\n\n";
 ## <% tp.date.now("dddd, MMMM Do, YYYY") %>  
 ***  
 ### Tasks Completed
+- [ ] 
