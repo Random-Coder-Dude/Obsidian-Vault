@@ -1,8 +1,9 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Things",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "Daily Note Themes",
-    "Property Manager"
+    "Property Manager",
+    "Bolded Color"
   ]
 }

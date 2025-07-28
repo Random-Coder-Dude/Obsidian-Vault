@@ -6,7 +6,7 @@ cssclasses:
 # 🎓 Academic Research Hub
 
 >[!quote] Quote
-	> Productivity is never an accident. It is always the result of a commitment to excellence, intelligent planning, and focused effort.
+	> **Productivity** is never an **accident**. It is always the result of a **commitment** to excellence, intelligent planning, and focused **effort**.
 > &mdash; <cite>Paul J. Meyer</cite>✍️
 ---
 # Hop In!
