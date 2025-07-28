@@ -20,5 +20,18 @@
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
-  "excluded_folder": []
+  "excluded_folder": [
+    {
+      "folder": "Chemistry/1 - Introduction, Matter and Measurement"
+    },
+    {
+      "folder": "Chemistry/2 - Atoms, Molecules, and Ions"
+    },
+    {
+      "folder": "Chemistry/3 - Stoichiometry, Calculations with Chemical Formulas and Equations"
+    },
+    {
+      "folder": "Chemistry/4 - Reactions in Aqueous Solution"
+    }
+  ]
 }
