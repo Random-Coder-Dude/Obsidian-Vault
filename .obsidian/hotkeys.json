@@ -38,5 +38,15 @@
       ],
       "key": "1"
     }
+  ],
+  "templater-obsidian:Templates/Angstrom.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
   ]
 }

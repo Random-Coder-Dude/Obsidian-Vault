@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Templates/Daily Note.md",
-    "Templates/Auto Template.md"
+    "Templates/Auto Template.md",
+    "Templates/Angstrom.md"
   ],
   "startup_templates": [
     ""
