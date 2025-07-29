@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
+                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.4 - Atomic Weights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 - The Modern View of Atomic Structure"
+              "title": "2.4 - Atomic Weights"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
+                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.4 - Atomic Weights.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.3 - The Modern View of Atomic Structure"
+              "title": "Outline of 2.4 - Atomic Weights"
             }
           },
           {
@@ -206,9 +206,9 @@
   },
   "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
+    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
     "Templates/Auto Template.md",
     "Templates/Angstrom.md",
-    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
     "Main.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.2 - The Discovery of Atomic Structure.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.1 - The Atomic Theory of Matter.md",
