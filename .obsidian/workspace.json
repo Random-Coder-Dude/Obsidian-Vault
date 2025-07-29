@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#The",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,8 +104,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "68be5018acac0437",
@@ -126,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70d7e6660b209888",
@@ -233,7 +233,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e30197d9390f138b",
+  "active": "f4050089e3743dba",
   "lastOpenFiles": [
     "Main.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.1 - The Atomic Theory of Matter.md",
