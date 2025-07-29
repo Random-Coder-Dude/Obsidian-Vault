@@ -1,12 +1,13 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Cybertron",
   "enabledCssSnippets": [
     "Daily Note Themes",
     "Property Manager",
     "Bolded Color",
     "Navigation",
     "dataview",
-    "homepage"
+    "homepage",
+    "font"
   ]
 }
