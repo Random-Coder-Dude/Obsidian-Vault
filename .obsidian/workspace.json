@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7476dbe7badff6eb",
-        "type": "split",
+        "id": "b3acabfd62405c4b",
+        "type": "tabs",
         "children": [
           {
-            "id": "b3acabfd62405c4b",
-            "type": "tabs",
-            "dimension": 80.62015503875969,
-            "children": [
-              {
-                "id": "f4050089e3743dba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.2 - The Discovery of Atomic Structure.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2.2 - The Discovery of Atomic Structure"
-                }
-              }
-            ]
-          },
-          {
-            "id": "328b5c7000e7db7e",
-            "type": "tabs",
-            "dimension": 19.379844961240313,
-            "children": [
-              {
-                "id": "aa05e300e4445c74",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
+            "id": "f4050089e3743dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.2 - The Discovery of Atomic Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 - The Discovery of Atomic Structure"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
