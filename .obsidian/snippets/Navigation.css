@@ -1,0 +1,46 @@
+/* Shared variables */
+.markdown-preview-view.navigation,
+.markdown-source-view.mod-cm6.navigation {
+  --toc-bg: var(--background-primary);
+  --toc-border: var(--color-base-30);
+  --toc-hover: var(--color-accent);
+  --toc-text: var(--text-normal);
+  --toc-padding: 1rem;
+  --toc-radius: 1rem;
+  --toc-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Container styling */
+.markdown-preview-view.navigation .markdown-preview-sizer,
+.markdown-source-view.mod-cm6.navigation .cm-scroller {
+  background-color: var(--toc-bg);
+  border: 1px solid var(--toc-border);
+  padding: var(--toc-padding);
+  border-radius: var(--toc-radius);
+  box-shadow: var(--toc-shadow);
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+/* Internal link styling */
+.markdown-preview-view.navigation a.internal-link,
+.markdown-source-view.mod-cm6.navigation .cm-line span.cm-hmd-internal-link {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin: 0.25rem 0;
+  border-left: 4px solid var(--toc-border);
+  color: var(--toc-text) !important;
+  text-decoration: none;
+  font-weight: 500;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+/* Hover effects */
+.markdown-preview-view.navigation a.internal-link:hover,
+.markdown-source-view.mod-cm6.navigation .cm-line span.cm-hmd-internal-link:hover {
+  border-left: 4px solid var(--toc-hover);
+  background-color: var(--background-modifier-hover);
+  color: var(--toc-hover) !important;
+  transform: translateX(2px);
+}
