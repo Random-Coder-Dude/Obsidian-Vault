@@ -37,14 +37,10 @@
                 "id": "aa05e300e4445c74",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/Dictionary.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "Dictionary"
+                  "title": "New tab"
                 }
               }
             ]
