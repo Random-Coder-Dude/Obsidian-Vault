@@ -18,30 +18,15 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.1 - The Atomic Theory of Matter.md",
+                    "file": "Daily Note/2025-07-28.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2.1 - The Atomic Theory of Matter"
-                }
-              },
-              {
-                "id": "0e602665c739fb77",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chemistry/Theories/John Dalton's Atomic Theory.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "John Dalton's Atomic Theory"
+                  "title": "2025-07-28"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "328b5c7000e7db7e",
@@ -52,14 +37,10 @@
                 "id": "e72bf9cf7b110122",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chemistry/Chemistry the Central Science/Dictionary.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "Dictionary"
+                  "title": "New tab"
                 }
               }
             ]
@@ -98,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#The",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Theories/John Dalton's Atomic Theory.md",
+                "file": "Daily Note/2025-07-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of John Dalton's Atomic Theory"
+              "title": "Outline of 2025-07-28"
             }
           },
           {
@@ -233,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "switcher:Open quick switcher": false,
@@ -244,13 +226,14 @@
       "find-orphaned-images:Find orphaned images": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "0e602665c739fb77",
+  "active": "f4050089e3743dba",
   "lastOpenFiles": [
+    "Daily Note/2025-07-26.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.1 - The Atomic Theory of Matter.md",
+    "Chemistry/Chemistry the Central Science/Dictionary.md",
     "Chemistry/Theories/John Dalton's Atomic Theory.md",
     "Templates/Auto Template.md",
     "Chemistry/Theories",
@@ -258,7 +241,6 @@
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/Chapter 2.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/Chapter 1.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.1 - The Study of Chemistry.md",
-    "Chemistry/Chemistry the Central Science/Dictionary.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.6 - Dimension Analysis.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.5 - Uncertainty in Measurement.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.4 - Units of Measurement.md",
@@ -277,7 +259,6 @@
     "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.7 - Limiting Reactants.md",
     "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.6 - Quantitative Information from Balanced Equations.md",
     "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.5 - Empirical Formulas from Analysis.md",
-    "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.4 - Avogadro's Number and the Mole.md",
     "Chemistry/Chemistry the Central Science/4 - Reactions in Aqueous Solution",
     "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions",
