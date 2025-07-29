@@ -104,7 +104,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "68be5018acac0437",
@@ -228,10 +229,11 @@
       "find-orphaned-images:Find orphaned images": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "f4050089e3743dba",
+  "active": "e30197d9390f138b",
   "lastOpenFiles": [
     "Main.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.1 - The Atomic Theory of Matter.md",
