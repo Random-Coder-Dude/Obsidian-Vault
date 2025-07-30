@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.4 - Atomic Weights.md",
+                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.5 - The Periodic Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 - Atomic Weights"
+              "title": "2.5 - The Periodic Table"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.4 - Atomic Weights.md",
+                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.5 - The Periodic Table.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.4 - Atomic Weights"
+              "title": "Outline of 2.5 - The Periodic Table"
             }
           },
           {
@@ -206,12 +206,12 @@
   },
   "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
-    "Main.md",
-    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.4 - Atomic Weights.md",
+    "Daily Note/2025-07-29.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.5 - The Periodic Table.md",
+    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.4 - Atomic Weights.md",
+    "Main.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.6 - Molecules and Molecular Compounds.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
-    "Daily Note/2025-07-29.md",
     "Daily Note/2025-07-28.md",
     "Templates/Auto Template.md",
     "Templates/Angstrom.md",
