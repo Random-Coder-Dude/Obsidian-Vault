@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.1 - Chemical Equations.md",
+                "file": "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.2 - Some Simple Patterns of Chemical Reactivity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 - Chemical Equations"
+              "title": "3.2 - Some Simple Patterns of Chemical Reactivity"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.1 - Chemical Equations.md",
+                "file": "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.2 - Some Simple Patterns of Chemical Reactivity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.1 - Chemical Equations"
+              "title": "Outline of 3.2 - Some Simple Patterns of Chemical Reactivity"
             }
           },
           {
@@ -206,6 +206,10 @@
   },
   "active": "c9e841999bf19e00",
   "lastOpenFiles": [
+    "Daily Note/2025-07-31.md",
+    "Daily Note/2025-07-30.md",
+    "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.2 - Some Simple Patterns of Chemical Reactivity.md",
+    "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.1 - Chemical Equations.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/Chapter 1.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.9 - Some Simple Organic Compounds.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.8 - Naming Inorganic Compounds.md",
@@ -227,7 +231,6 @@
     "Images/Pasted image 20250730181626.png",
     "Images/Pasted image 20250730181024.png",
     "Images/Pasted image 20250730174506.png",
-    "Daily Note/2025-07-30.md",
     "Main.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/Chapter 2.md",
     "Daily Note/2025-07-29.md",
@@ -238,9 +241,6 @@
     "Images/Ink/Writing",
     "Images/Ink",
     "Images/Pasted image 20250729081746.png",
-    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/Dictionary.md",
-    "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/Dictionary.md",
-    "Daily Note/2025-07-26.md",
     "Chemistry/Theories",
     "Chemistry/Chemistry the Central Science",
     "Chemistry/Chemistry the Central Science/4 - Reactions in Aqueous Solution",
