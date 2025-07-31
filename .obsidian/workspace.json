@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.8 - Naming Inorganic Compounds.md",
+                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.9 - Some Simple Organic Compounds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.8 - Naming Inorganic Compounds"
+              "title": "2.9 - Some Simple Organic Compounds"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.8 - Naming Inorganic Compounds.md",
+                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.9 - Some Simple Organic Compounds.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.8 - Naming Inorganic Compounds"
+              "title": "Outline of 2.9 - Some Simple Organic Compounds"
             }
           },
           {
@@ -206,6 +206,8 @@
   },
   "active": "c9e841999bf19e00",
   "lastOpenFiles": [
+    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.8 - Naming Inorganic Compounds.md",
+    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.9 - Some Simple Organic Compounds.md",
     "Images/Pasted image 20250731073030.png",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.7 - Ions and Ionic Compounds.md",
     "Images/Pasted image 20250730184228.png",
@@ -239,7 +241,6 @@
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/Dictionary.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/Dictionary.md",
     "Daily Note/2025-07-26.md",
-    "Chemistry/Theories/John Dalton's Atomic Theory.md",
     "Chemistry/Theories",
     "Chemistry/Chemistry the Central Science",
     "Chemistry/Chemistry the Central Science/4 - Reactions in Aqueous Solution",
@@ -250,7 +251,6 @@
     "Templates",
     "Templates/title.png",
     "Templates/example_full.png",
-    "Images/Pasted image 20250726042559.png",
-    "Images/Pasted image 20250726033421.png"
+    "Images/Pasted image 20250726042559.png"
   ]
 }
