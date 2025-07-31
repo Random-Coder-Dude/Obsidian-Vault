@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "36b7bd53620b918c",
+        "id": "d2b7f310b880601c",
         "type": "tabs",
         "children": [
           {
-            "id": "d16a40ea6fc86421",
+            "id": "c9e841999bf19e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.6 - Molecules and Molecular Compounds.md",
+                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.7 - Ions and Ionic Compounds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.6 - Molecules and Molecular Compounds"
+              "title": "2.7 - Ions and Ionic Compounds"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.6 - Molecules and Molecular Compounds.md",
+                "file": "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.7 - Ions and Ionic Compounds.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.6 - Molecules and Molecular Compounds"
+              "title": "Outline of 2.7 - Ions and Ionic Compounds"
             }
           },
           {
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,28 +204,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d16a40ea6fc86421",
+  "active": "c9e841999bf19e00",
   "lastOpenFiles": [
-    "Images/Pasted image 20250730181626.png",
-    "Images/Pasted image 20250730181024.png",
-    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.5 - The Periodic Table.md",
-    "Images/Pasted image 20250730174506.png",
-    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.4 - Atomic Weights.md",
-    "Daily Note/2025-07-30.md",
-    "Main.md",
-    "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/Chapter 1.md",
-    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
-    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.2 - The Discovery of Atomic Structure.md",
-    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/Chapter 2.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.6 - Dimension Analysis.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.5 - Uncertainty in Measurement.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.4 - Units of Measurement.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.3 - Properties of Matter.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.2 - Classifications of Matter.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.1 - The Study of Chemistry.md",
-    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.1 - The Atomic Theory of Matter.md",
-    "Daily Note/2025-07-29.md",
+    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.7 - Ions and Ionic Compounds.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.6 - Molecules and Molecular Compounds.md",
+    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.5 - The Periodic Table.md",
+    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.4 - Atomic Weights.md",
+    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
+    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.2 - The Discovery of Atomic Structure.md",
+    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.1 - The Atomic Theory of Matter.md",
+    "Images/Pasted image 20250730181626.png",
+    "Images/Pasted image 20250730181024.png",
+    "Images/Pasted image 20250730174506.png",
+    "Daily Note/2025-07-30.md",
+    "Main.md",
+    "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/Chapter 1.md",
+    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/Chapter 2.md",
+    "Daily Note/2025-07-29.md",
     "Daily Note/2025-07-28.md",
     "Templates/Auto Template.md",
     "Templates/Angstrom.md",
@@ -250,7 +251,6 @@
     "Templates/example_full.png",
     "Images/Pasted image 20250726042559.png",
     "Images/Pasted image 20250726033421.png",
-    "Images/Pasted image 20250726032542.png",
-    "Images/Pasted image 20250726032412.png"
+    "Images/Pasted image 20250726032542.png"
   ]
 }
