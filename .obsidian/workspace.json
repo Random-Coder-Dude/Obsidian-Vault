@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b7f310b880601c",
+        "id": "36b7bd53620b918c",
         "type": "tabs",
         "children": [
           {
-            "id": "c9e841999bf19e00",
+            "id": "d16a40ea6fc86421",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,12 +204,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c9e841999bf19e00",
+  "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
+    "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.1 - Chemical Equations.md",
+    "Main.md",
+    "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.2 - Some Simple Patterns of Chemical Reactivity.md",
     "Daily Note/2025-07-31.md",
     "Daily Note/2025-07-30.md",
-    "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.2 - Some Simple Patterns of Chemical Reactivity.md",
-    "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.1 - Chemical Equations.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/Chapter 1.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.9 - Some Simple Organic Compounds.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.8 - Naming Inorganic Compounds.md",
@@ -231,7 +232,6 @@
     "Images/Pasted image 20250730181626.png",
     "Images/Pasted image 20250730181024.png",
     "Images/Pasted image 20250730174506.png",
-    "Main.md",
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/Chapter 2.md",
     "Daily Note/2025-07-29.md",
     "Daily Note/2025-07-28.md",
