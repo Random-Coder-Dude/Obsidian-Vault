@@ -5,4 +5,4 @@
 
 This can be proven as follows
 [[Existence of an Additive Identity]]$$(a+b)+0=a+b=a+(b+0)$$
-$$(a+b)+c=a+(b+c)$$
+[[Inductive Hypothesis]]$$(a+b)+c=a+(b+c)$$
