@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Main"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -203,8 +203,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d16a40ea6fc86421",
+  "active": "6f9ea4536d9bc1c5",
   "lastOpenFiles": [
+    "Untitled",
+    "Main.md",
+    "Untitled.md",
     "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/Chapter 3.md",
     "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.4 - Avogadro's Number and the Mole.md",
     "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.3 - Formula Weights.md",
@@ -215,7 +218,6 @@
     "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.5 - The Periodic Table.md",
     "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.2 - Some Simple Patterns of Chemical Reactivity.md",
     "Chemistry/Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.1 - Chemical Equations.md",
-    "Main.md",
     "Daily Note/2025-07-31.md",
     "Daily Note/2025-07-30.md",
     "Chemistry/Chemistry the Central Science/1 - Introduction, Matter and Measurement/Chapter 1.md",
@@ -234,8 +236,6 @@
     "Images/Pasted image 20250730181626.png",
     "Images/Pasted image 20250730181024.png",
     "Images/Pasted image 20250730174506.png",
-    "Chemistry/Chemistry the Central Science/2 - Atoms, Molecules, and Ions/Chapter 2.md",
-    "Daily Note/2025-07-29.md",
     "Images/Ink/Writing/2025.7.29 - 8.20am.writing",
     "Images/Ink/Writing",
     "Images/Ink",
