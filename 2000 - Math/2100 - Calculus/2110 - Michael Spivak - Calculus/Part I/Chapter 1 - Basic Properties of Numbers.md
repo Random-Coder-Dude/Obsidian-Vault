@@ -5,22 +5,11 @@ All properties will be written in this format
 This statement clearly shows there is no difference between the sum of two numbers and three numbers
 ![[Existence of an Additive Identity#^eace65]]
 This statement shows that 0 does not change the value of *a* when they are summed together
-
-> [!NOTE] Theory
-> 3. for every number $a$, there is a number $-a$ such that$$a+(-a)=(-a)+a=0$$
-> 
-
+![[Existence of Additive Inverses#^0d024a]]
 While these properties might feel self explanatory they are there to create a solid foundation mathematicians can build off of
+![[Commutative Law for Addition#^972351]]
+![[Associative Law for Multiplication#^88a88a]]
 
-> [!NOTE] Theory
-> 4. if $a$ and $b$ are any numbers, then$$a+b=b+a$$
-
-> [!NOTE] Theory
-> 5. if $a$, $b$, and $c$ are any numbers, then$$a\cdot(b\cdot c)=(a\cdot b)\cdot c$$
-
-> [!NOTE] Theory
-> 6. if $a$ is any number, then$$a\cdot1=1\cdot a=a$$
-> Moreover, $1\neq0$
 
 > [!NOTE] Theory
 > 7. for every number $a\neq0$, there is a number $a^{-1}$ such that$$a\cdot a^{-1}=a^{-1}\cdot a=1$$
