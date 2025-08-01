@@ -31,3 +31,9 @@ While these properties might feel self explanatory they are there to create a so
 > [!NOTE] Theory
 > 7. for every number $a\neq0$, there is a number $a^{-1}$ such that$$a\cdot a^{-1}=a^{-1}\cdot a=1$$
 
+> [!NOTE] Theory
+> 8. if $a$ and $b$ are any numbers, then$$a\cdot b=b\cdot a$$
+
+> [!NOTE] Theory
+> 9. if $a$, $b$, and $c$ are any numbers, then$$a\cdot(b+c)=a\cdot b+a\cdot c$$
+
