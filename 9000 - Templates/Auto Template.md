@@ -1,12 +1,9 @@
 <%*
-const fileFolder = tp.file.path(true);
-const folderParts = fileFolder.split("/");
+const folderPath = tp.file.folder(true); // e.g. "1000 - Science/1100 - Chemistry/..."
+const folderParts = folderPath.split("/"); // Split correctly using "/"
 
-// Get the second-highest folder, if available
-const secondHighest = folderParts.length > 1 ? folderParts[1] : (folderParts[0] || "root");
-
-// Remove leading numbers and dashes (e.g. '01-Chapter' -> 'Chapter')
-const cleanedFolder = secondHighest.replace(/^\d+-?/, "");
+const targetFolderRaw = folderParts.length >= 2 ? folderParts[1] : "root"; // second-highest (index 1)
+const cleanedFolder = targetFolderRaw.replace(/^\d+\s*-\s*/, ""); // Remove leading digits and dash
 
 tR += "---\n";
 tR += "date: " + tp.date.now("YYYY-MM-DD") + "T" + tp.date.now("HH:mm") + "\n";
