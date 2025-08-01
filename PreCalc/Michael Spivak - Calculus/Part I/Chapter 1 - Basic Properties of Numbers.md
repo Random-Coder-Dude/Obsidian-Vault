@@ -2,10 +2,18 @@ This chapter will lay out 12 different properties of numbers. The first 9 are co
 
 All properties will be written in this format
 
-> [!Theory]
+> [!NOTE] Theory
 > 1. if *a*, *b*, and *c* are any numbers, then$$a+(b+c)=(a+b)+c$$
 
 This statement clearly shows there is no difference between the sum of two numbers and three numbers
 
-> [!Theory]
+> [!NOTE] Theory
 > 2. if *a* is any number, then$$a+0=0+a=a$$
+
+This statement shows that 0 does not change the value of *a* when they are summed together
+
+> [!NOTE] Theory
+> 3. for every number *a*, there is a number *-a* such that$$a+(-a)=(-a)+a=0$$
+> 
+
+While these properties ma=ight feel

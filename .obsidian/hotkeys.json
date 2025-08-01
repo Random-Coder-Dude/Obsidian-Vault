@@ -48,5 +48,13 @@
       ],
       "key": "A"
     }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "`"
+    }
   ]
 }
