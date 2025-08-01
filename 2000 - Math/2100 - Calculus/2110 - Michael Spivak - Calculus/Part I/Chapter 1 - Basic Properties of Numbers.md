@@ -2,8 +2,7 @@ This chapter will lay out 12 different properties of numbers. The first 9 are co
 
 All properties will be written in this format
 
-> [!NOTE] Theory
-> 1. if $a$, $b$, and $c$ are any numbers, then$$a+(b+c)=(a+b)+c$$
+![[Associative Law for Addition#^ba1b60]]
 
 This statement clearly shows there is no difference between the sum of two numbers and three numbers
 
