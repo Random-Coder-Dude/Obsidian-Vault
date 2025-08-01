@@ -22,4 +22,6 @@ While these properties might feel self explanatory they are there to create a so
 ![[Commutative Law for Multiplication#^eb3a85]]
 ![[Distributive Law#^5b9a4b]]
 The next three properties all have to do with inequalities and are as follows
-[[]]
+![[Trichotomy Law#^8c162c]]
+![[Closure Under Addition#^37efa8]]
+![[Closure Under Multiplication#^53cf16]]
