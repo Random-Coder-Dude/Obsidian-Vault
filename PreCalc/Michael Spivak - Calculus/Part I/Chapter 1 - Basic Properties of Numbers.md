@@ -16,4 +16,4 @@ This statement shows that 0 does not change the value of *a* when they are summe
 > 3. for every number *a*, there is a number *-a* such that$$a+(-a)=(-a)+a=0$$
 > 
 
-While these properties ma=ight feel
+While these properties might feel self explanatory they are there to create a solid foundation mathematicians can build off of
