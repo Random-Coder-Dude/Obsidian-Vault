@@ -56,5 +56,31 @@
       ],
       "key": "`"
     }
+  ],
+  "templater-obsidian:9000 - Templates/Daily Note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "templater-obsidian:9000 - Templates/Auto Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "templater-obsidian:9000 - Templates/Angstrom.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
   ]
 }
