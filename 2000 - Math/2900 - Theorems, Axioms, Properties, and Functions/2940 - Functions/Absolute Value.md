@@ -1,0 +1,1 @@
+For any number $a$ the absolute value is,$$|a|=$$
