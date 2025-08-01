@@ -50,15 +50,3 @@
   cursor: help;
   z-index: 10;
 }
-
-/* Optional: show weekdays label on left side */
-.contrib-graph::before {
-  content: "S\nM\nT\nW\nT\nF\nS";
-  white-space: pre-line;
-  font-size: 10px;
-  color: var(--text-muted);
-  position: absolute;
-  left: 0;
-  padding-right: 6px;
-  user-select: none;
-}
