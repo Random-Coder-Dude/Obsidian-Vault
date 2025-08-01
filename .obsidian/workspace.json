@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Associative Law for Addition.md",
+                "file": "2000 - Math/2100 - Calculus/2110 - Michael Spivak - Calculus/Part I/Chapter 1 - Basic Properties of Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Associative Law for Addition"
+              "title": "Chapter 1 - Basic Properties of Numbers"
             }
           }
         ]
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70d7e6660b209888",
@@ -160,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Associative Law for Addition.md",
+                "file": "2000 - Math/2100 - Calculus/2110 - Michael Spivak - Calculus/Part I/Chapter 1 - Basic Properties of Numbers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Associative Law for Addition"
+              "title": "Outline of Chapter 1 - Basic Properties of Numbers"
             }
           },
           {
@@ -205,17 +206,17 @@
   },
   "active": "db8b5ed52775d86b",
   "lastOpenFiles": [
-    "2000 - Math/2100 - Calculus/2110 - Michael Spivak - Calculus/Part I/Chapter 1 - Basic Properties of Numbers.md",
-    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Distributive Law.md",
-    "Main.md",
-    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Commutative Law for Multiplication.md",
     "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Existence of Multiplicative Inverses.md",
-    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Existence of a Multiplicative Identity.md",
-    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Associative Law for Multiplication.md",
-    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Commutative Law for Addition.md",
-    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Existence of Additive Inverses.md",
     "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Existence of an Additive Identity.md",
+    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Existence of Additive Inverses.md",
+    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Existence of a Multiplicative Identity.md",
+    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Distributive Law.md",
+    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Commutative Law for Multiplication.md",
+    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Commutative Law for Addition.md",
+    "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Associative Law for Multiplication.md",
     "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Associative Law for Addition.md",
+    "2000 - Math/2100 - Calculus/2110 - Michael Spivak - Calculus/Part I/Chapter 1 - Basic Properties of Numbers.md",
+    "Main.md",
     "2000 - Math/2800 - Solving Techniques/Inductive Hypothesis.md",
     "2000 - Math/2800 - Solving Techniques/Untitled",
     "2000 - Math/2800 - Solving Techniques",

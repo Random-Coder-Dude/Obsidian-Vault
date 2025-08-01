@@ -1,4 +1,4 @@
-> [!NOTE] Theory
+> [!NOTE] Property
 > If $a$ and $b$ are any numbers, then$$a+b=b+a$$
 
 ^972351

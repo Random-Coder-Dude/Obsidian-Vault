@@ -21,3 +21,4 @@ While these properties might feel self explanatory they are there to create a so
 ![[Existence of Multiplicative Inverses#^1da6c4]]
 ![[Commutative Law for Multiplication#^eb3a85]]
 ![[Distributive Law#^5b9a4b]]
+The next three 
