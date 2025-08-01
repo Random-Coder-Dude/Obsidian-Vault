@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70d7e6660b209888",
@@ -203,7 +204,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6f9ea4536d9bc1c5",
+  "active": "1bf62026686c62a0",
   "lastOpenFiles": [
     "2000 - Math/2100 - Calculus/2120 - Theorems, Axioms, and Properties",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.1 - The Study of Chemistry.md",
