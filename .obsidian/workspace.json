@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.5 - Empirical Formulas from Analysis.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.6 - Quantitative Information from Balanced Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5 - Empirical Formulas from Analysis"
+              "title": "3.6 - Quantitative Information from Balanced Equations"
             }
           }
         ]
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.5 - Empirical Formulas from Analysis.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.6 - Quantitative Information from Balanced Equations.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3.5 - Empirical Formulas from Analysis"
+              "title": "Outgoing links from 3.6 - Quantitative Information from Balanced Equations"
             }
           },
           {
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.5 - Empirical Formulas from Analysis.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.6 - Quantitative Information from Balanced Equations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.5 - Empirical Formulas from Analysis"
+              "title": "Outline of 3.6 - Quantitative Information from Balanced Equations"
             }
           },
           {
@@ -181,11 +181,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,12 +206,13 @@
   },
   "active": "5669f2dd32f7e4b8",
   "lastOpenFiles": [
+    "8000 - Daily Notes/2025-08-01.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.6 - Quantitative Information from Balanced Equations.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.5 - Empirical Formulas from Analysis.md",
     "Images/Pasted image 20250801185414.png",
     "Images",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.1 - Chemical Equations.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.5 - Empirical Formulas from Analysis.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.4 - Avogadro's Number and the Mole.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.6 - Quantitative Information from Balanced Equations.md",
     "9000 - Templates/Angstrom.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.8 - Naming Inorganic Compounds.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
@@ -250,7 +251,6 @@
     "0000 - Images/Pasted image 20250729081746.png",
     "Images/wallpaperflare.com_wallpaper.jpg",
     "Templates/title.png",
-    "Templates/example_full.png",
-    "0000 - Images/Pasted image 20250726042559.png"
+    "Templates/example_full.png"
   ]
 }
