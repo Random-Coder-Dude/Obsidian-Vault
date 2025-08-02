@@ -146,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry/Dictionary.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.4 - Avogadro's Number and the Mole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dictionary"
+              "title": "Outgoing links from 3.4 - Avogadro's Number and the Mole"
             }
           },
           {
@@ -195,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,7 +218,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5669f2dd32f7e4b8",
+  "active": "6feabaaa7bdac02d",
   "lastOpenFiles": [
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.8 - Naming Inorganic Compounds.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.4 - Avogadro's Number and the Mole.md",
