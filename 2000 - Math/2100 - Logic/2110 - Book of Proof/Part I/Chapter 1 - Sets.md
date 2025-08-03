@@ -28,10 +28,10 @@ As you get used to this notation it gets a lot easier to understand and follow h
 $$\begin{align}
 &1.\quad\set{n:n\text{ is a prime number}}=\set{2,3,5,7,11,13,17,...} \\
 &2.\quad\set{n\in\mathbb{N}:n\text{ is prime}}= \\
-&3.\quad\set{} \\
-&4.\quad\set{} \\
-&5.\quad\set{} \\
-&6.\quad\set{} \\
-&7.\quad\set{} \\
-&8.\quad\set{} \\
+&3.\quad\set{n^2:n\in\mathbb{Z}}= \\
+&4.\quad\set{x\in\mathbb{R}:x^2-2=0}= \\
+&5.\quad\set{x\in\mathbb{Z}:x^2-2=0}= \\
+&6.\quad\set{x\in\mathbb{Z}:|x|\lt4}= \\
+&7.\quad\set{2x:x\in\mathbb{Z},|x|\lt4}= \\
+&8.\quad\set{x\in\mathbb{Z}:|2x|\lt4}= \\
 \end{align}$$
