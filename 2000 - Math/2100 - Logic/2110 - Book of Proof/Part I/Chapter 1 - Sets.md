@@ -15,3 +15,9 @@ A set is expressed in the following way $\set{2,4,6,8}$ this is called a **finit
 Here the dots indicate a pattern which continues in both directions
 Two sets are **equal** if they contain exactly the same elements. For example the sets $\set{2,4,6,8}=\set{2,4,8,6}$ are equal. Even if the order of elements are shifted. Similarly two sets would be **unequal** if all of their elements do not match. For example $\set{2,4,6,8}\ne\set{2,4,6,7}$ 
 We usually call sets by a capital letter such as $A=\set{2,4,6,8}$ we can now $2\in A$ where it means 2 is a member of set A. The converse is also a symbol where $5\notin A$, meaning 5 is not a member of set A. This symbols can also be used as follows $2,4\in A$ as well as $5,7\notin A$ mean what you would expect them to mean.
+Some sets are so important they have symbols reserved for them
+$$\begin{align}
+\mathbb{N}&=\set{1,2,3,4,5,6,7,...}\text{ The set of natural numbers} \\
+\mathbb{Z}&=\set{...,-3,-2,-1,0,1,2,3,4,...}\text{ The set of integers} \\
+
+\end{align}$$
