@@ -19,5 +19,5 @@ Some sets are so important they have symbols reserved for them
 $$\begin{align}
 \mathbb{N}&=\set{1,2,3,4,5,6,7,...}\text{ The set of natural numbers} \\
 \mathbb{Z}&=\set{...,-3,-2,-1,0,1,2,3,4,...}\text{ The set of integers} \\
-
+\mathbb{R}&=\text{ The set of all real numbers}
 \end{align}$$
