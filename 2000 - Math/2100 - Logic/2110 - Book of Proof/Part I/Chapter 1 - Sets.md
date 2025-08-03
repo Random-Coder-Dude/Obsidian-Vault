@@ -26,5 +26,6 @@ If $X$ is a finite set it has a property called **cardinality** which is a fancy
 There is another notation for sets called **set-builder notation** it allows us to describe really big and complex sets easily. Here is an example $E=\set{2n:n\in\mathbb{Z}}$. This is the same thing as the infinite set of even integers, written normally as $\set{...,-6,-4,-2,0,2,4,6,...}$. We read the first brace as *the set of all thing of form* and the colon as *such that*. This leads to the expression for set $E$ meaning *E equals the set of all things of form $2n$, such that $n$ is an element of $\mathbb{Z}$*. In general the form for set-builder notation is $$X=\set{\text{expression}:\text{rule}}$$
 As you get used to this notation it gets a lot easier to understand and follow here are some examples
 $$\begin{align}
-
+&1.\tab\set{n:n\text{ is a prime number}}=\set{2,3,5,7,11,13,17,...} \\
+&2. 
 \end{align}$$
