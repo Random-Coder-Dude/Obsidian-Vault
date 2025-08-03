@@ -22,4 +22,4 @@ $$\begin{align}
 \mathbb{R}&=\text{ The set of all real numbers}
 \end{align}$$
 One important note is that sets do not need to have numbers, a set can contain anything even other sets.
-If $X$ is a finite set it has a property called **cardinality** which is a fancy word for size. It is denoted by $|X|$ Thus the set $A$ has a cardinality of 4 denoted as $|A|=4$. There is another special set which plays a bug role it is called the empty set and is defined as $\emptyset=$
+If $X$ is a finite set it has a property called **cardinality** which is a fancy word for size. It is denoted by $|X|$ Thus the set $A$ has a cardinality of 4 denoted as $|A|=4$. There is another special set which plays a bug role it is called the empty set and is defined as $\emptyset=\set{}$. This is the only set which has the property $|\emptyset|=0$. However be careful because $\set{\emptyset}\ne\emptyset$, the set $|\set{\emptyset}|=1$ in other words it is like an empty box vs a box with an empty box inside. Obviously different.
