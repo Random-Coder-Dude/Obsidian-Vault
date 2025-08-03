@@ -21,3 +21,5 @@ $$\begin{align}
 \mathbb{Z}&=\set{...,-3,-2,-1,0,1,2,3,4,...}\text{ The set of integers} \\
 \mathbb{R}&=\text{ The set of all real numbers}
 \end{align}$$
+One important note is that sets do not need to have numbers, a set can contain anything even other sets.
+If $X$ is a finite set it has a property called **cardinality** which is a fancy word for size. It is denoted by $|X|$ Thus the set $A$ has a cardinality of 4 denoted as $|A|=4$. There is another special set which plays a bug role it is called the empty set and is defined as $\emptyset=$
