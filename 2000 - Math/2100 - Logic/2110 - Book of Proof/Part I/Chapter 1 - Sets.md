@@ -36,4 +36,5 @@ $$\begin{align}
 &8.\quad\set{x\in\mathbb{Z}:|2x|\lt4}=\set{-1,0,1} \\
 \end{align}$$
 Example 1.2
-$A=\set{7a+3b:a,b\in\mathbb{Z}$
+$A=\set{7a+3b:a,b\in\mathbb{Z}}$.
+The set contains all of the numbers with form $7a+3b$ where $a$ and $b$ are integers. This means that if $n$ is any integer than $n=7n+3n(-2n)$ Aka $n=7n-6n$ so $n=7a+3b$ when $a=n$ and $b=-2n$. Therefore $n\in A$. Because $n$ is any integer $A=\mathbb{z}) 
