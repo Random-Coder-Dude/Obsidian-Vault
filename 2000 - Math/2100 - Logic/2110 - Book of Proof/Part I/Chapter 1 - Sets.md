@@ -46,4 +46,5 @@ $$\begin{align}
 &\text{The rational numbers}&\mathbb{Q}&=\set{x:x=m/n,\text{ where }m,n\in\mathbb{Z}\text{ and }n\ne0} \\
 &\text{The real numbers}&\mathbb{R}
 \end{align}$$
-We
+We visualize the set $\mathbb{R}$ as an infinitely long number line
+Note: $\mathbb{Q}\ne\mathbb{R}$ because $\sqrt{2}\in\mathbb{R}\text{ but }\sqrt{2}\notin\mathbb{Q}$
