@@ -48,3 +48,4 @@ $$\begin{align}
 \end{align}$$
 We visualize the set $\mathbb{R}$ as an infinitely long number line
 Note: $\mathbb{Q}\ne\mathbb{R}$ because $\sqrt{2}\in\mathbb{R}\text{ but }\sqrt{2}\notin\mathbb{Q}$
+Like $\mathbb{R}$, any 2 numbers $a,b\in\mathbb{R}$, with $a<b$ give rise to infinite sets which can be denoted on the number line as 
