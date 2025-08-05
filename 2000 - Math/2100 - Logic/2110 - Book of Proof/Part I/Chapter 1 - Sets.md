@@ -27,11 +27,11 @@ There is another notation for sets called **set-builder notation** it allows us 
 As you get used to this notation it gets a lot easier to understand and follow here are some examples
 $$\begin{align}
 &1.\quad\set{n:n\text{ is a prime number}}=\set{2,3,5,7,11,13,17,...} \\
-&2.\quad\set{n\in\mathbb{N}:n\text{ is prime}}= \\
-&3.\quad\set{n^2:n\in\mathbb{Z}}= \\
-&4.\quad\set{x\in\mathbb{R}:x^2-2=0}= \\
-&5.\quad\set{x\in\mathbb{Z}:x^2-2=0}= \\
-&6.\quad\set{x\in\mathbb{Z}:|x|\lt4}= \\
-&7.\quad\set{2x:x\in\mathbb{Z},|x|\lt4}= \\
-&8.\quad\set{x\in\mathbb{Z}:|2x|\lt4}= \\
+&2.\quad\set{n\in\mathbb{N}:n\text{ is prime}}=\set{2,3,5,7,11,13,17,...} \\
+&3.\quad\set{n^2:n\in\mathbb{Z}}=\set{0,1,4,9,16,25,...} \\
+&4.\quad\set{x\in\mathbb{R}:x^2-2=0}=\set{\sqrt{2},-\sqrt{2}} \\
+&5.\quad\set{x\in\mathbb{Z}:x^2-2=0}=\emptyset \\
+&6.\quad\set{x\in\mathbb{Z}:|x|\lt4}=\set{-3,-2,-1,0,1,2,3} \\
+&7.\quad\set{2x:x\in\mathbb{Z},|x|\lt4}=\set{-6,-4,-2,0,2,4,6} \\
+&8.\quad\set{x\in\mathbb{Z}:|2x|\lt4}=\set{-1,0,1} \\
 \end{align}$$
