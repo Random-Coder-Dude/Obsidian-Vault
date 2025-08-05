@@ -35,3 +35,5 @@ $$\begin{align}
 &7.\quad\set{2x:x\in\mathbb{Z},|x|\lt4}=\set{-6,-4,-2,0,2,4,6} \\
 &8.\quad\set{x\in\mathbb{Z}:|2x|\lt4}=\set{-1,0,1} \\
 \end{align}$$
+Example 1.2
+$A=\set{7a+3b:a,b\in\mathbb{Z}$
