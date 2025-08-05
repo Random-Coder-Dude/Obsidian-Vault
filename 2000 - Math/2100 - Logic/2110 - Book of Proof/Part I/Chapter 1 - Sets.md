@@ -39,7 +39,11 @@ Example 1.2
 $A=\set{7a+3b:a,b\in\mathbb{Z}}$.
 The set contains all of the numbers with form $7a+3b$ where $a$ and $b$ are integers. This means that if $n$ is any integer than $n=7n+3n(-2n)$ Aka $n=7n-6n$ so $n=7a+3b$ when $a=n$ and $b=-2n$. Therefore $n\in A$. Because $n$ is any integer $A=\mathbb{Z}$. 
 To reiterate the special sets we have
-$$\begin{align}\begin{itemize}
-\text{The empty set}:\emptyset=\set{}
-\
-\end{itemize}\end{align}$$
+$$\begin{align}
+&\text{The empty set}&\emptyset&=\set{} \\
+&\text{The natural numbers}&\mathbb{N}&=\set{1,2,3,4,5,...} \\
+&\text{The integers}&\mathbb{Z}&=\set{...,-3,-2,-1,0,1,2,3,4,5,...} \\
+&\text{The rational numbers}&\mathbb{Q}&=\set{x:x=m/n,\text{ where }m,n\in\mathbb{Z}\text{ and }n\ne0} \\
+&\text{The real numbers}&\mathbb{R}
+\end{align}$$
+We
