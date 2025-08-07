@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.4 - Oxidation-Reduction Reactions.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.5 - Concentrations of Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.4 - Oxidation-Reduction Reactions"
+              "title": "4.5 - Concentrations of Solutions"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.4 - Oxidation-Reduction Reactions.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.5 - Concentrations of Solutions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.4 - Oxidation-Reduction Reactions"
+              "title": "Outline of 4.5 - Concentrations of Solutions"
             }
           },
           {
@@ -205,8 +205,9 @@
   },
   "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.3 - Acids, Bases and Neutralization Reactions.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.4 - Oxidation-Reduction Reactions.md",
+    "Images/Pasted image 20250806142226.png",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.3 - Acids, Bases and Neutralization Reactions.md",
     "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1/Exercises/1.1 - Introduction to Sets.md",
     "Main.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.1 - General Properties of Aqueous Solutions.md",
@@ -236,7 +237,6 @@
     "2000 - Math/2900 - Theorems, Axioms, Properties, and Functions/2940 - Functions/Absolute Value.md",
     "2000 - Math/2900 - Theorems, Axioms, Properties, and Functions/2940 - Functions/Division.md",
     "2000 - Math/2900 - Theorems, Axioms, Properties, and Functions/2940 - Functions/Multiplication.md",
-    "2000 - Math/2900 - Theorems, Axioms, Properties, and Functions/2940 - Functions/Addition.md",
     "2000 - Math/2900 - Theorems, Axioms, Properties, and Functions/2940 - Functions",
     "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Untitled",
     "2000 - Math/2800 - Solving Techniques/Untitled",
@@ -250,7 +250,6 @@
     "0000 - Images/Pasted image 20250730174506.png",
     "0000 - Images/Pasted image 20250729081746.png",
     "Images/wallpaperflare.com_wallpaper.jpg",
-    "Templates/title.png",
-    "Templates/example_full.png"
+    "Templates/title.png"
   ]
 }
