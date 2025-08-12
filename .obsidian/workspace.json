@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.5 - Uncertainty in Measurement.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5 - Uncertainty in Measurement"
+              "title": "2.3 - The Modern View of Atomic Structure"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.5 - Uncertainty in Measurement.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.5 - Uncertainty in Measurement"
+              "title": "Outline of 2.3 - The Modern View of Atomic Structure"
             }
           },
           {
@@ -205,6 +205,7 @@
   },
   "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.5 - Uncertainty in Measurement.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.4 - Units of Measurement.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.3 - Properties of Matter.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/1 - Introduction, Matter and Measurement/1.2 - Classifications of Matter.md",
@@ -239,7 +240,6 @@
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.4 - Avogadro's Number and the Mole.md",
     "9000 - Templates/Angstrom.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.8 - Naming Inorganic Compounds.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
     "2000 - Math/2900 - Theorems, Axioms, Properties, and Functions/2940 - Functions",
     "2000 - Math/2900 - Theorems, Axioms, and Properties/2930 - Properties/Untitled",
     "2000 - Math/2800 - Solving Techniques/Untitled",
