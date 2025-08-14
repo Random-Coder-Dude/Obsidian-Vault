@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.3 - Formula Weights.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.3 - Acids, Bases and Neutralization Reactions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 - Formula Weights"
+              "title": "4.3 - Acids, Bases and Neutralization Reactions"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.3 - Formula Weights.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.3 - Acids, Bases and Neutralization Reactions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.3 - Formula Weights"
+              "title": "Outline of 4.3 - Acids, Bases and Neutralization Reactions"
             }
           },
           {
@@ -205,8 +205,8 @@
   },
   "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.2 - Some Simple Patterns of Chemical Reactivity.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.3 - Formula Weights.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.2 - Some Simple Patterns of Chemical Reactivity.md",
     "Main.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.6 - Molecules and Molecular Compounds.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.5 - The Periodic Table.md",
