@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.2 - Precipitation Reactions.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.8 - Naming Inorganic Compounds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 - Precipitation Reactions"
+              "title": "2.8 - Naming Inorganic Compounds"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.2 - Precipitation Reactions.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.8 - Naming Inorganic Compounds.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.2 - Precipitation Reactions"
+              "title": "Outline of 2.8 - Naming Inorganic Compounds"
             }
           },
           {
@@ -205,6 +205,8 @@
   },
   "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.9 - Some Simple Organic Compounds.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.2 - Precipitation Reactions.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.1 - General Properties of Aqueous Solutions.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.3 - Acids, Bases and Neutralization Reactions.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.3 - Formula Weights.md",
@@ -226,7 +228,6 @@
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.4 - Oxidation-Reduction Reactions.md",
     "Images/Pasted image 20250806142226.png",
     "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1/Exercises/1.1 - Introduction to Sets.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.2 - Precipitation Reactions.md",
     "8000 - Daily Notes/2025-08-05.md",
     "Untitled.canvas",
     "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1/Notes/1.1 - Introduction to Sets.md",
@@ -237,7 +238,6 @@
     "2000 - Math/2900 - Theorems, Axioms, Properties, and Functions/2930 - Properties/Trichotomy Law.md",
     "2000 - Math/2900 - Theorems, Axioms, Properties, and Functions/2940 - Functions/Subtraction.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.7 - Limiting Reactants.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.6 - Quantitative Information from Balanced Equations.md",
     "Images/Pasted image 20250801185414.png",
     "Images",
     "2000 - Math/2900 - Theorems, Axioms, Properties, and Functions/2940 - Functions",
