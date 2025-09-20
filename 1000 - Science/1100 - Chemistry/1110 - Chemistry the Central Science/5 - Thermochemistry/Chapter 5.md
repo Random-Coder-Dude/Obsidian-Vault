@@ -6,3 +6,4 @@ cssclasses:
   - navigation
 ---
 [[5.1 - The Nature of Energy]]
+[[5.2 - The First Law of Thermodynamics]]
