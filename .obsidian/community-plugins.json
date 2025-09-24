@@ -4,11 +4,11 @@
   "calendar",
   "homepage",
   "pexels-banner",
-  "obsidian-git",
   "dataview",
   "omnisearch",
   "better-word-count",
   "mousewheel-image-zoom",
   "heatmap-tracker",
-  "obsidian-vault-statistics-plugin"
+  "obsidian-vault-statistics-plugin",
+  "obsidian-git"
 ]
