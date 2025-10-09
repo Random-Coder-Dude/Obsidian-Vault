@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.1 - The Nature of Energy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
-            }
-          },
-          {
-            "id": "fd933e540d120f3d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "5.1 - The Nature of Energy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.1 - The Nature of Energy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 5.1 - The Nature of Energy"
             }
           },
           {
@@ -216,8 +204,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fd933e540d120f3d",
+  "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.2 - The First Law of Thermodynamics.md",
     "Main.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Chapter 6.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/1 - Introduction, Matter and Measurement/Chapter 1.md",
@@ -242,7 +231,6 @@
     "1000 - Science/1200 - AP Chem Notebook/Wood Experiment.md",
     "1000 - Science/1200 - AP Chem Notebook",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.4 - Enthalpies of Reaction.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.2 - The First Law of Thermodynamics.md",
     "Images/Pasted image 20250923133104.png",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.3 - Enthalpy.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.6 - Solution Stoichiometry and Chemical Analysis.md",
