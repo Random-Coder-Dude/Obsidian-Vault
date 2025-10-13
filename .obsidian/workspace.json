@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.3 - Enthalpy.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.4 - Enthalpies of Reaction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.3 - Enthalpy"
+              "title": "5.4 - Enthalpies of Reaction"
+            }
+          },
+          {
+            "id": "341189dccce02b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.2 - The First Law of Thermodynamics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.2 - The First Law of Thermodynamics"
             }
           }
         ]
@@ -160,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.3 - Enthalpy.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.4 - Enthalpies of Reaction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.3 - Enthalpy"
+              "title": "Outline of 5.4 - Enthalpies of Reaction"
             }
           },
           {
@@ -206,22 +220,26 @@
   },
   "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
-    "1000 - Science/1100 - Chemistry/index.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.2 - The First Law of Thermodynamics.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.4 - Enthalpies of Reaction.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.4 - Oxidation-Reduction Reactions.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.2 - Precipitation Reactions.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.7 - Limiting Reactants.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.5 - Empirical Formulas from Analysis.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.6 - Quantitative Information from Balanced Equations.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.4 - Avogadro's Number and the Mole.md",
+    "Main.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.3 - Enthalpy.md",
+    "1000 - Science/1100 - Chemistry/index.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.1 - The Nature of Energy.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.6 - Solution Stoichiometry and Chemical Analysis.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.8 - Food and Fuels.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.7 - Enthalpies of Formation.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.6 - Hess Law.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.5 - Calorimetry.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.4 - Enthalpies of Reaction.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.3 - Enthalpy.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.1 - General Properties of Aqueous Solutions.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.2 - Precipitation Reactions.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.3 - Acids, Bases and Neutralization Reactions.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.4 - Avogadro's Number and the Mole.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.3 - The Modern View of Atomic Structure.md",
-    "Main.md",
     "1000 - Science/1100 - Chemistry/Main.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.3 - Line Spectra and the Bohr Model.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.2 - Quantized Energy and Photons.md",
@@ -230,10 +248,6 @@
     "Images/Pasted image 20251012204926.png",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Chapter 6.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/1 - Introduction, Matter and Measurement/Chapter 1.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/Chapter 2.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/2 - Atoms, Molecules, and Ions/2.9 - Some Simple Organic Compounds.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/Chapter 3.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/Chapter 4.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms",
     "Images/Pasted image 20251008200648.png",
     "Images/Pasted image 20251008200152.png",
