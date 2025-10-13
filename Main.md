@@ -1,5 +1,5 @@
 ---
-banner: https://i.redd.it/a3ftzqi7ide71.png
+banner: https://external-preview.redd.it/qVRADWH-AE_CCnafCBKvzTZm4hcWBdF82eFsgKlrumY.jpg?auto=webp&s=82a7399f0ceaf7a5825b2110d7bf0b57d4ad6049
 cssclasses:
   - homepage
 ---
