@@ -1,13 +1,82 @@
-name: Test Workflow
+name: Deploy Quartz site
 
 on:
   push:
     branches:
-      - main
+      - main  # triggers workflow when pushing to main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  hello:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Say hello
-        run: echo "Workflow is running!"
+      # 1. Checkout the vault repo (this repo)
+      - name: Checkout Vault Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 2. Checkout the Quartz repo
+      - name: Checkout Quartz Repo
+        uses: actions/checkout@v4
+        with:
+          repository: Random-Coder-Dude/Quartz
+          path: quartz
+          token: ${{ secrets.QUIRZ_PAT }}  # Use only if Quartz is private
+          fetch-depth: 0
+
+      # 3. Debug: List vault files
+      - name: List Vault Files
+        run: ls -la
+
+      # 4. Sync vault content into Quartz content folder
+      - name: Sync Vault into Quartz Content
+        run: |
+          rm -rf quartz/content
+          mkdir quartz/content
+          cp -r ./* quartz/content/
+      
+      # 5. Debug: List Quartz content
+      - name: List Quartz Content
+        run: ls -la quartz/content/
+
+      # 6. Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      # 7. Install Quartz dependencies
+      - name: Install Dependencies
+        working-directory: quartz
+        run: npm install
+
+      # 8. Build Quartz
+      - name: Build Quartz Site
+        working-directory: quartz
+        run: npx quartz build
+
+      # 9. Upload artifact for GitHub Pages
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
