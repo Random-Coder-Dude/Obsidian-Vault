@@ -18,13 +18,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1. Checkout Obsidian repo (this repo)
+      # 1. Checkout Obsidian Repo (this repo)
       - name: Checkout Obsidian Repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 2. Checkout Quartz repo (private fork)
+      # 2. Checkout Quartz Repo (private fork)
       - name: Checkout Quartz Repo
         uses: actions/checkout@v4
         with:
@@ -38,7 +38,7 @@ jobs:
         run: |
           rm -rf quartz/content
           mkdir -p quartz/content
-          rsync -av --exclude='quartz' ./ quartz/content/
+          rsync -av --exclude='quartz' --exclude='.github' --exclude='.git' ./ quartz/content/
 
       # 4. Setup Node.js for Quartz
       - name: Setup Node.js
@@ -65,13 +65,7 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-
-
