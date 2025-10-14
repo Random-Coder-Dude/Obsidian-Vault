@@ -1,6 +1,13 @@
-name: Deploy Quartz site
+name: Test Workflow
 
 on:
   push:
     branches:
-      - main  # branch that triggers the workflow
+      - main
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say hello
+        run: echo "Workflow is running!"
