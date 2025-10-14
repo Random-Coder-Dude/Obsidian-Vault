@@ -3,7 +3,7 @@ name: Deploy Quartz site
 on:
   push:
     branches:
-      - main
+      - main  # triggers on Obsidian vault commits
   workflow_dispatch:  # allows manual trigger
 
 permissions:
@@ -19,19 +19,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1. Checkout Obsidian Vault (this repo)
-      - name: Checkout Obsidian Vault
+      # 1. Checkout Obsidian vault (this repo)
+      - name: Checkout Obsidian Repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 2. Checkout Quartz Repo (private fork)
+      # 2. Checkout Quartz repo (private fork)
       - name: Checkout Quartz Repo
         uses: actions/checkout@v4
         with:
           repository: Random-Coder-Dude/Quartz
           path: quartz
-          token: ${{ secrets.QUIRZ_PAT }}   # Personal Access Token for private repo
+          token: ${{ secrets.QUIRZ_PAT }}   # PAT for private repo
           fetch-depth: 0
 
       # 3. Sync Obsidian vault into Quartz content folder
@@ -57,7 +57,7 @@ jobs:
         working-directory: quartz
         run: npx quartz build
 
-      # 7. Upload artifact for Pages
+      # 7. Upload artifact for GitHub Pages
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -66,7 +66,10 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    environment: github-pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}  # dynamic Pages URL
     steps:
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
