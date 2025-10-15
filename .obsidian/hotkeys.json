@@ -90,5 +90,13 @@
       ],
       "key": "1"
     }
+  ],
+  "obsidian-git:commit-smart": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F1"
+    }
   ]
 }
