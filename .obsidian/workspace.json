@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.4 - The Wave Behavior of Matter.md",
+                "file": "Main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.4 - The Wave Behavior of Matter"
-            }
-          },
-          {
-            "id": "8b41a23ce0f497fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.5 - Quantum Mechanics and Atomic Orbitals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.5 - Quantum Mechanics and Atomic Orbitals"
+              "title": "Main"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.5 - Quantum Mechanics and Atomic Orbitals.md",
+                "file": "Main.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6.5 - Quantum Mechanics and Atomic Orbitals"
+              "title": "Outline of Main"
             }
           },
           {
@@ -219,11 +204,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8b41a23ce0f497fc",
+  "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.5 - Quantum Mechanics and Atomic Orbitals.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.4 - The Wave Behavior of Matter.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.3 - Line Spectra and the Bohr Model.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.5 - Quantum Mechanics and Atomic Orbitals.md",
     "Main.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.4 - Enthalpies of Reaction.md",
     "New folder",
