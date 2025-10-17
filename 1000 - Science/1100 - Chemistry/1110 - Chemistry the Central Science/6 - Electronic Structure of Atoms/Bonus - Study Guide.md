@@ -53,16 +53,26 @@ If you had a metal that began to release electrons due to the photoelectric effe
 
 First what are they asking
 a) What is the wavelength of the radiation
-
-$$\frac{c(m)}{(s)}=\lambda(m)\cdot\frac{\nu}{s}$$
+Equation 1
+Equation 1
+$$\frac{c(m)}{(s)}=\lambda(m)\cdot\frac{\nu}{(s)}$$
+Equation 2
 $$E(J)=h(J\cdot s)\cdot\frac{\nu}{(s)}$$
+Restructuring
 $$\frac{c(m)}{s\lambda(m)}=\frac{\nu}{(s)}$$
+Substitution
 $$E(J)=h(J\cdot s)\cdot\frac{c(m)}{(s)\lambda(m)}$$
 Plug in values
-$${20kJ}\cdot\frac{1000J}{1kJ}=6.63\cdot10^{-34}(J\cdot s)\cdot\frac{3.00\cdot10^8(m)}{(s)\lambda(m)}$$
+$$\frac{20kJ}{1mol}\cdot\frac{1000J}{1kJ}\cdot\frac{1mol}{6.02\cdot10^{23}photons}=6.63\cdot10^{-34}(J\cdot s)\cdot\frac{3.00\cdot10^8(m)}{(s)\lambda(m)}$$
 Solve for $\lambda$
 You should have gotten
-$$9.9\cdot10^{-30}(m)=\lambda(m)$$
-So our final answer is $9.9\cdot10^{-30}m$
+$$6.0\cdot10^{-6}(m)=\lambda(m)$$
+So our final answer is $6.0\cdot10^{-6}m$
 
+# 6.3
 ## Emission Spectra
+When looking at the gaseous state of an element through a spectrometer will form many colored bands in the view. Each one of these represent the wavelength of light the atom releases when it releases a photon due to moving to a lower energy state.
+Rydberg noticed this and formed his equation$$\Delta E(J)=\frac{R_H}{(m)}\left(\frac{1}{n_f^2}-\frac{1}{n_i^2}\right)$$
+where $R_H$ is Rydberg's Constant
+Also the energy $E$ can be modeled by $$E(J)=-h(J\cdot s)\cdot\frac{c(m)}{(s)}\cdot\frac{R_H}{(m)}\cdot\frac{1}{n^2}$$
+# 6.4
