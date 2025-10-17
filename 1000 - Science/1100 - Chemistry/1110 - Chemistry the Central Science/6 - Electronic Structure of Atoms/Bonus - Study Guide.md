@@ -21,5 +21,7 @@ b) What type of radiation would this be
 
 By applying the equation
 $$c=\nu\lambda$$
-Then plu
-$$\frac{c(m)}{(s)}=\frac{6.01\cdot10^7}{s^{-1}}\cdot{\lambda(m)}$$
+Then plugging in values
+$$\frac{3.00\cdot10^8(m)}{(s)}=\frac{6.01\cdot10^7}{s^{-1}}\cdot{\lambda(m)}$$
+Then solving with basic algebra **You have bigger problems if you can't do this**
+$$$$
