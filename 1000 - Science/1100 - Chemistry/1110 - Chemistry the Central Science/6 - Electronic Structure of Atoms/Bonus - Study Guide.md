@@ -38,3 +38,4 @@ There were 3 big problems in chemistry at this time.
 3. Emission Spectra
 
 ## Blackbody Problem
+Bassicly scientists wanted to find an equation which related the temprature of a blackbody to the wavelength / frequancy o
