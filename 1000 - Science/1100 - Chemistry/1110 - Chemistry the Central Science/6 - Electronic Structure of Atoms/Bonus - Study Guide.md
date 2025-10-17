@@ -54,7 +54,6 @@ If you had a metal that began to release electrons due to the photoelectric effe
 First what are they asking
 a) What is the wavelength of the radiation
 Equation 1
-Equation 1
 $$\frac{c(m)}{(s)}=\lambda(m)\cdot\frac{\nu}{(s)}$$
 Equation 2
 $$E(J)=h(J\cdot s)\cdot\frac{\nu}{(s)}$$
@@ -75,4 +74,51 @@ When looking at the gaseous state of an element through a spectrometer will form
 Rydberg noticed this and formed his equation$$\Delta E(J)=\frac{R_H}{(m)}\left(\frac{1}{n_f^2}-\frac{1}{n_i^2}\right)$$
 where $R_H$ is Rydberg's Constant
 Also the energy $E$ can be modeled by $$E(J)=-h(J\cdot s)\cdot\frac{c(m)}{(s)}\cdot\frac{R_H}{(m)}\cdot\frac{1}{n^2}$$
+Bohr this other scientist looked to improve the model of the atom.
+Eventually he came up with Bohr's atomic theory which was wrong in certain aspects but eventually served as the base for idea to come.
+
+## Bohr's 3 Postulates
+1. Specific Orbits
+	a. Electrons = ONLY orbits with certain radii and energies
+2. Stable Energy States
+	b. In an allowed orbit $\ce{->}$ electron DOES not lose energy or fall into the nucleus 
+3. Energy Transitions
+	c. Electrons emit or absorb photons when moving between orbits
+
+Basically electrons only orbit around the nucleus in discrete orbitals. When they move between orbits they release of absorb photons. 
+
+## Limitations
+Major Limitations 
+1. Fails for other atoms $\ce{->}$ cannot explain their spectra well
+2. Avoids a key question: why doesn’t the electron fall into the nucleus?
+3. Treats a electron like as a particle only 
+
 # 6.4
+De Broglie realized that electrons also behave like waves relating the two with his equation$$\lambda(m)=\frac{h(J\cdot s)}{m(g)\cdot\frac{v(m)}{s}}$$
+where the bottom term $mv$ is the momentum of the object
+Adding on to these ideas there is the uncertainty law$$\Delta x\cdot\Delta(mv)\ge\frac{h}{4\pi}$$ This equation tells us the maximum precision we could have based of either the $\Delta x$ precision or $\Delta(mv)$ precision
+For small objects this matters (like an electron) but for larger objects the difference is small it doesn't matter.
+Overall because we can't tell where an electron in an atom is the new atomic theory must explain where electrons are in the atom in terms of a probability cloud.
+
+# 6.5
+Welcome to quantum mechanics
+Bohr assumes a circular or elliptical orbit around the atom however quantum mechanics represents electrons in terms of a cloud. 
+There are electron shells 
+And a principle quantum number ($n$)
+Also there is angular momentum of the electron ($l$)
+Also a magnetic quantum number ($m$)
+The value of $n$ influences the possible values of $l$ and $m$ 
+$$l(\# of)=n-1+1=n$$
+Magnetic numbers
+$$m(\#of)=-l\dots l=2n+1$$
+Also values of $l$ represent different levels of orbitals
+
+| $l$    | 0   | 1   | 2   | 3   |
+| ------ | --- | --- | --- | --- |
+| Letter | s   | p   | d   | f   |
+
+The total number of orbitals in a shell is $n^2$ where $n$ corresponds to the energy level
+Atom is in its ground state (Least energy state) vs Atom in an excited state (Any other state)
+
+# 6.6
+There are 4 types of orbitals dictated by the possible values of $l$ so use Aufbau Principle to fill in electrons and find an atoms ground state
