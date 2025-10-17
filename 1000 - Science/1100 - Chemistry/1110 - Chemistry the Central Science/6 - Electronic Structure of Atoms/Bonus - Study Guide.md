@@ -32,3 +32,8 @@ Now to solve part b we look back at this image
 Noticing where the wavelength and frequency line up on the graph we can conclude this radiation would be a radio wave
 
 # 6.2
+There were 3 big problems in chemistry at this time. 
+1. Blackbody Problem
+2. Photoelectric Effect
+3. Emission Spectra
+4. 
