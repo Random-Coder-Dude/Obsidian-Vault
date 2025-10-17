@@ -54,5 +54,6 @@ If you had a metal that began to release electrons due to the photoelectric effe
 First what are they asking
 a) What is the wavelength of the radiation
 
-$$\frac{c(m)}{s}=\lambda(m)\frac{\nu}{s}$$
-$$$$
+$$\frac{c(m)}{s}=\lambda(m)\cdot\frac{\nu}{s}$$
+$$E(J)=h(J\cdot s)\cdot\frac{\nu}{s}$$
+$$c\$$
