@@ -154,3 +154,9 @@ Atom is in its ground state (Least energy state) vs Atom in an excited state (An
 
 # 6.6
 There are 4 types of orbitals dictated by the possible values of $l$ so use Aufbau Principle to fill in electrons and find an atoms ground state
+![[Pasted image 20251017124941.png]]
+Also make sure to know the shapes of all the orbitals
+![[Pasted image 20251017125026.png]]
+Higher energy orbitals are bigger in size.
+
+# Practice Questions
