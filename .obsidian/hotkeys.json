@@ -106,5 +106,13 @@
       ],
       "key": "F2"
     }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F3"
+    }
   ]
 }

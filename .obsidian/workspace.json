@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.5 - Quantum Mechanics and Atomic Orbitals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.5 - Quantum Mechanics and Atomic Orbitals"
+            }
+          },
+          {
+            "id": "3e324d883801e65d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Bonus - Study Guide"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,6 +205,7 @@
     "hiddenItems": {
       "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -203,14 +219,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d16a40ea6fc86421",
+  "active": "3e324d883801e65d",
   "lastOpenFiles": [
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Chapter 6.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.5 - Quantum Mechanics and Atomic Orbitals.md",
     "Images/Pasted image 20251017125026.png",
     "Images/Pasted image 20251017125013.png",
     "Images/Pasted image 20251017124941.png",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Untitled.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.2 - Quantized Energy and Photons.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.1 - The Wave Nature of Light.md",
     "Main.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.5 - Quantum Mechanics and Atomic Orbitals.md",
-    "conflict-files-obsidian-git.md"
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.3 - Line Spectra and the Bohr Model.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.4 - The Wave Behavior of Matter.md",
+    "README.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.4 - Enthalpies of Reaction.md",
+    "New folder",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.2 - The First Law of Thermodynamics.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.4 - Oxidation-Reduction Reactions.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.2 - Precipitation Reactions.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.7 - Limiting Reactants.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.5 - Empirical Formulas from Analysis.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.6 - Quantitative Information from Balanced Equations.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.4 - Avogadro's Number and the Mole.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.3 - Enthalpy.md",
+    "1000 - Science/1100 - Chemistry/index.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.1 - The Nature of Energy.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.6 - Solution Stoichiometry and Chemical Analysis.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.8 - Food and Fuels.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.7 - Enthalpies of Formation.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.6 - Hess Law.md",
+    "Images/Pasted image 20251012205244.png",
+    "Images/Pasted image 20251012204926.png",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms",
+    "Images/Pasted image 20251008200648.png",
+    "Images/Pasted image 20251008200152.png",
+    "Images/Pasted image 20251008194614.png",
+    "Images/Pasted image 20251008194129.png",
+    "1000 - Science/1200 - AP Chem Notebook",
+    "Images/Pasted image 20250923133104.png",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry",
+    "Untitled.base",
+    "Untitled.canvas",
+    "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1/Exercises",
+    "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1/Notes",
+    "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1",
+    "Images",
+    "2000 - Math/2900 - Theorems, Axioms, Properties, and Functions/2940 - Functions"
   ]
 }
