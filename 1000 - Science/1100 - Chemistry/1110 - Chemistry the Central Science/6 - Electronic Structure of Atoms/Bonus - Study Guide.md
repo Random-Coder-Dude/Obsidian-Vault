@@ -62,3 +62,4 @@ Plug in values
 $${20kJ}\cdot\frac{1000J}{1kJ}=6.63\cdot10^{-34}(J\cdot s)\cdot\frac{3.00\cdot10^8(m)}{(s)\lambda(m)}$$
 Solve for $\lambda$
 You should have gotten
+$$9.9\cdot10^{-30}(m)=\lambda(m)$$
