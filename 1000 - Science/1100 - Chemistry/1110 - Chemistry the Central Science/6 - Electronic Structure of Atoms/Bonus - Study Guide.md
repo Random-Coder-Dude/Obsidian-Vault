@@ -26,3 +26,6 @@ $$\frac{3.00\cdot10^8(m)}{(s)}=\frac{6.01\cdot10^7}{s^{-1}}\cdot{\lambda(m)}$$
 Then solving with basic algebra **You have bigger problems if you can't do this**
 $$4.99(m)=\lambda(m)$$
 **Remember Significant Figures**
+You have solved part a, the wavelength is $4.99m$
+Now to solve part b we look back at this image
+![[Pasted image 20251012205244.png]]
