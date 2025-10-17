@@ -49,4 +49,6 @@ Eventually Planck solved both of these problems by saying energy is quantized an
 Where $h$ is Planck's constant. This law in conjunction with the relation between wavelength and frequency can be used to solve questions.
 
 ## Example (6.21)
-If you had a metal 
+If you had a metal that began to release electrons due to the photoelectric effect at $20kJ$ of energy what would the minimum wavelength be required to trigger this effect?
+
+First what are th
