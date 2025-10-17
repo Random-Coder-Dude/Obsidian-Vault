@@ -29,3 +29,6 @@ $$4.99(m)=\lambda(m)$$
 You have solved part a, the wavelength is $4.99m$
 Now to solve part b we look back at this image
 ![[Pasted image 20251012205244.png]]
+Noticing where the wavelength and frequency line up on the graph we can conclude this radiation would be a radio wave
+
+# 6.2
