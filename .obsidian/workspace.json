@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.5 - Quantum Mechanics and Atomic Orbitals.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.5 - Quantum Mechanics and Atomic Orbitals"
-            }
-          },
-          {
-            "id": "3e324d883801e65d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.4 - The Wave Behavior of Matter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.4 - The Wave Behavior of Matter"
+              "title": "Bonus - Study Guide"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.4 - The Wave Behavior of Matter.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6.4 - The Wave Behavior of Matter"
+              "title": "Outline of Bonus - Study Guide"
             }
           },
           {
@@ -204,23 +189,24 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "find-orphaned-images:Find orphaned images": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "3e324d883801e65d",
+  "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
+    "Main.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.4 - The Wave Behavior of Matter.md",
     "1000 - Science/1200 - AP Chem Notebook/Wood Experiment.md",
     "README.md",
     "Untitled.md",
@@ -229,9 +215,7 @@
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.2 - Quantized Energy and Photons.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Chapter 6.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.1 - The Wave Nature of Light.md",
-    "Main.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.3 - Line Spectra and the Bohr Model.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.4 - The Wave Behavior of Matter.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.4 - Enthalpies of Reaction.md",
     "New folder",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.2 - The First Law of Thermodynamics.md",
