@@ -65,4 +65,4 @@ You should have gotten
 $$9.9\cdot10^{-30}(m)=\lambda(m)$$
 So our final answer is $9.9\cdot10^{-30}m$
 
-## Emmsion Spectra
+## Emission Spectra
