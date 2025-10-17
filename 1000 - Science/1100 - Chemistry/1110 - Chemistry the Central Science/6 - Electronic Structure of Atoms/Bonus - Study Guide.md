@@ -51,4 +51,8 @@ Where $h$ is Planck's constant. This law in conjunction with the relation betwee
 ## Example (6.21)
 If you had a metal that began to release electrons due to the photoelectric effect at $20kJ$ of energy what would the minimum wavelength be required to trigger this effect?
 
-First what are th
+First what are they asking
+a) What is the wavelength of the radiation
+
+$$\frac{c(m)}{s}=\lambda(m)\frac{\nu}{s}$$
+$$$$
