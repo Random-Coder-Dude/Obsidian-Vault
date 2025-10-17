@@ -42,7 +42,8 @@ Basically scientists wanted to find an equation which related the temperature of
 However any attempts to do so always ended with an equation that asymptotes towards infinity (Not in the good way). It also didn't follow experimental results. 
 
 ## Photoelectric Effect
-Scientists were looking to explain why bombarding a metal with light sometimes released electrons from the metal. It was an inequality where the metal would only release electrons if the wavelength of the light was greater or lower than a value. 
+Scientists were looking to explain why bombarding a metal with light sometimes released electrons from the metal. It was an inequality where the metal would only release electrons if the frequency of the light was greater or lower than a value. 
 
 ## Planck's Constant
-Evuantal Planck solved both of these problems by saying energy is quantized and calculating the smallest "steps" energy could take in order to 
+Eventually Planck solved both of these problems by saying energy is quantized and calculating the smallest "steps" energy. He then created a simple equation$$E=h\nu$$
+Where $h$ is Planck's cons
