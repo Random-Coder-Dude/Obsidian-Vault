@@ -39,4 +39,7 @@ There were 3 big problems in chemistry at this time.
 
 ## Blackbody Problem
 Basically scientists wanted to find an equation which related the temperature of a blackbody to the wavelength / frequency of the energy it emitted. 
-However any attempts to do so always ended with an equation that asymptotes towards infinity (Not in the good way). It also didnt follow experimental results. 
+However any attempts to do so always ended with an equation that asymptotes towards infinity (Not in the good way). It also didn't follow experimental results. 
+
+## Photoelectric Effect
+Scientists were looking to explain why bombarding a metal with light sometimes realeased electrons from the metal. It was an inequallity where the metal would only release electrons if the w
