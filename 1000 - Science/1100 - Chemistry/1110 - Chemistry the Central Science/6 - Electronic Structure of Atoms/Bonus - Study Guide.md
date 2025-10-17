@@ -46,4 +46,7 @@ Scientists were looking to explain why bombarding a metal with light sometimes r
 
 ## Planck's Constant
 Eventually Planck solved both of these problems by saying energy is quantized and calculating the smallest "steps" energy. He then created a simple equation$$E=h\nu$$
-Where $h$ is Planck's cons
+Where $h$ is Planck's constant. This law in conjunction with the relation between wavelength and frequency can be used to solve questions.
+
+## Example (6.21)
+If you had a metal 
