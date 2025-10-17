@@ -20,11 +20,17 @@ a) What is the wavelength ($\lambda$)
 b) What type of radiation would this be
 
 By applying the equation
+
 $$c=\nu\lambda$$
+
 Then plugging in values
+
 $$\frac{3.00\cdot10^8(m)}{(s)}=\frac{6.01\cdot10^7}{s^{-1}}\cdot{\lambda(m)}$$
+
 Then solving with basic algebra **You have bigger problems if you can't do this**
+
 $$4.99(m)=\lambda(m)$$
+
 **Remember Significant Figures**
 You have solved part a, the wavelength is $4.99m$
 Now to solve part b we look back at this image
@@ -45,7 +51,9 @@ However any attempts to do so always ended with an equation that asymptotes towa
 Scientists were looking to explain why bombarding a metal with light sometimes released electrons from the metal. It was an inequality where the metal would only release electrons if the frequency of the light was greater or lower than a value. 
 
 ## Planck's Constant
-Eventually Planck solved both of these problems by saying energy is quantized and calculating the smallest "steps" energy. He then created a simple equation$$E=h\nu$$
+Eventually Planck solved both of these problems by saying energy is quantized and calculating the smallest "steps" energy. He then created a simple equation
+$$E=h\nu$$
+
 Where $h$ is Planck's constant. This law in conjunction with the relation between wavelength and frequency can be used to solve questions.
 
 ## Example (6.21)
@@ -54,26 +62,42 @@ If you had a metal that began to release electrons due to the photoelectric effe
 First what are they asking
 a) What is the wavelength of the radiation
 Equation 1
+
 $$\frac{c(m)}{(s)}=\lambda(m)\cdot\frac{\nu}{(s)}$$
+
 Equation 2
+
 $$E(J)=h(J\cdot s)\cdot\frac{\nu}{(s)}$$
+
 Restructuring
+
 $$\frac{c(m)}{s\lambda(m)}=\frac{\nu}{(s)}$$
+
 Substitution
+
 $$E(J)=h(J\cdot s)\cdot\frac{c(m)}{(s)\lambda(m)}$$
+
 Plug in values
+
 $$\frac{20kJ}{1mol}\cdot\frac{1000J}{1kJ}\cdot\frac{1mol}{6.02\cdot10^{23}photons}=6.63\cdot10^{-34}(J\cdot s)\cdot\frac{3.00\cdot10^8(m)}{(s)\lambda(m)}$$
+
 Solve for $\lambda$
 You should have gotten
+
 $$6.0\cdot10^{-6}(m)=\lambda(m)$$
+
 So our final answer is $6.0\cdot10^{-6}m$
 
 # 6.3
 ## Emission Spectra
 When looking at the gaseous state of an element through a spectrometer will form many colored bands in the view. Each one of these represent the wavelength of light the atom releases when it releases a photon due to moving to a lower energy state.
-Rydberg noticed this and formed his equation$$\Delta E(J)=\frac{R_H}{(m)}\left(\frac{1}{n_f^2}-\frac{1}{n_i^2}\right)$$
+Rydberg noticed this and formed his equation
+$$\Delta E(J)=\frac{R_H}{(m)}\left(\frac{1}{n_f^2}-\frac{1}{n_i^2}\right)$$
+
 where $R_H$ is Rydberg's Constant
-Also the energy $E$ can be modeled by $$E(J)=-h(J\cdot s)\cdot\frac{c(m)}{(s)}\cdot\frac{R_H}{(m)}\cdot\frac{1}{n^2}$$
+Also the energy $E$ can be modeled by 
+$$E(J)=-h(J\cdot s)\cdot\frac{c(m)}{(s)}\cdot\frac{R_H}{(m)}\cdot\frac{1}{n^2}$$
+
 Bohr this other scientist looked to improve the model of the atom.
 Eventually he came up with Bohr's atomic theory which was wrong in certain aspects but eventually served as the base for idea to come.
 
@@ -94,9 +118,13 @@ Major Limitations
 3. Treats a electron like as a particle only 
 
 # 6.4
-De Broglie realized that electrons also behave like waves relating the two with his equation$$\lambda(m)=\frac{h(J\cdot s)}{m(g)\cdot\frac{v(m)}{s}}$$
+De Broglie realized that electrons also behave like waves relating the two with his equation
+$$\lambda(m)=\frac{h(J\cdot s)}{m(g)\cdot\frac{v(m)}{s}}$$
+
 where the bottom term $mv$ is the momentum of the object
-Adding on to these ideas there is the uncertainty law$$\Delta x\cdot\Delta(mv)\ge\frac{h}{4\pi}$$ This equation tells us the maximum precision we could have based of either the $\Delta x$ precision or $\Delta(mv)$ precision
+Adding on to these ideas there is the uncertainty law
+$$\Delta x\cdot\Delta(mv)\ge\frac{h}{4\pi}$$
+This equation tells us the maximum precision we could have based of either the $\Delta x$ precision or $\Delta(mv)$ precision
 For small objects this matters (like an electron) but for larger objects the difference is small it doesn't matter.
 Overall because we can't tell where an electron in an atom is the new atomic theory must explain where electrons are in the atom in terms of a probability cloud.
 
@@ -108,9 +136,13 @@ And a principle quantum number ($n$)
 Also there is angular momentum of the electron ($l$)
 Also a magnetic quantum number ($m$)
 The value of $n$ influences the possible values of $l$ and $m$ 
+
 $$l(\# of)=n-1+1=n$$
+
 Magnetic numbers
+
 $$m(\#of)=-l\dots l=2n+1$$
+
 Also values of $l$ represent different levels of orbitals
 
 | $l$    | 0   | 1   | 2   | 3   |
