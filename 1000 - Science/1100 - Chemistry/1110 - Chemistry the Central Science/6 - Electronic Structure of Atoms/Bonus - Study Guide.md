@@ -56,4 +56,5 @@ a) What is the wavelength of the radiation
 
 $$\frac{c(m)}{s}=\lambda(m)\cdot\frac{\nu}{s}$$
 $$E(J)=h(J\cdot s)\cdot\frac{\nu}{s}$$
-$$c\$$
+$$\frac{c(m)}{s\lambda(m)}=\frac{\nu}{s}$$
+$$E(J)=h(J\cdot s)\cdot\frac{c(m)}{s\lambda(m)$$
