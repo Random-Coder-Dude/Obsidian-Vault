@@ -59,4 +59,6 @@ $$E(J)=h(J\cdot s)\cdot\frac{\nu}{(s)}$$
 $$\frac{c(m)}{s\lambda(m)}=\frac{\nu}{(s)}$$
 $$E(J)=h(J\cdot s)\cdot\frac{c(m)}{(s)\lambda(m)}$$
 Plug in values
-$${20kJ}\cdot\frac{1000J}{1kJ}=6.63\cdot10^{-34}(J\cdot s)\cdot\frac{3.00\cdot10^8(m)}{(s)}$$
+$${20kJ}\cdot\frac{1000J}{1kJ}=6.63\cdot10^{-34}(J\cdot s)\cdot\frac{3.00\cdot10^8(m)}{(s)\lambda(m)}$$
+Solve for $\lambda$
+You should have gotten
