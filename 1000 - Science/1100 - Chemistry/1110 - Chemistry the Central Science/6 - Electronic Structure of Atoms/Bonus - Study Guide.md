@@ -24,4 +24,5 @@ $$c=\nu\lambda$$
 Then plugging in values
 $$\frac{3.00\cdot10^8(m)}{(s)}=\frac{6.01\cdot10^7}{s^{-1}}\cdot{\lambda(m)}$$
 Then solving with basic algebra **You have bigger problems if you can't do this**
-$$$$
+$$4.99(m)=\lambda(m)$$
+**Remember Significant Figures**
