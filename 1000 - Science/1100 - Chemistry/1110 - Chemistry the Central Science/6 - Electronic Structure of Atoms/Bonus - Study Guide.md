@@ -49,14 +49,14 @@ Eventually Planck solved both of these problems by saying energy is quantized an
 Where $h$ is Planck's constant. This law in conjunction with the relation between wavelength and frequency can be used to solve questions.
 
 ## Example (6.21)
-If you had a metal that began to release electrons due to the photoelectric effect at $20kJ$ of energy what would the minimum wavelength be required to trigger this effect?
+If you had a metal that began to release electrons due to the photoelectric effect at $20kJ$ of energy what would the minimum wavelength be required to trigger this effect if the ?
 
 First what are they asking
 a) What is the wavelength of the radiation
 
-$$\frac{c(m)}{s}=\lambda(m)\cdot\frac{\nu}{s}$$
-$$E(J)=h(J\cdot s)\cdot\frac{\nu}{s}$$
-$$\frac{c(m)}{s\lambda(m)}=\frac{\nu}{s}$$
-$$E(J)=h(J\cdot s)\cdot\frac{c(m)}{s\lambda(m)}$$
+$$\frac{c(m)}{(s)}=\lambda(m)\cdot\frac{\nu}{s}$$
+$$E(J)=h(J\cdot s)\cdot\frac{\nu}{(s)}$$
+$$\frac{c(m)}{s\lambda(m)}=\frac{\nu}{(s)}$$
+$$E(J)=h(J\cdot s)\cdot\frac{c(m)}{(s)\lambda(m)}$$
 Plug in values
-$${20kJ}\cdot\frac{1000J}{1kJ}=\frac{3.00\dot10}{}$$
+$${20kJ}\cdot\frac{1000J}{1kJ}=\frac{3.00\cdot10^8(m)}{(s)}$$
