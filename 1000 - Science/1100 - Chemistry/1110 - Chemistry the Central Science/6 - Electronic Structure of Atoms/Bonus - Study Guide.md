@@ -57,4 +57,6 @@ a) What is the wavelength of the radiation
 $$\frac{c(m)}{s}=\lambda(m)\cdot\frac{\nu}{s}$$
 $$E(J)=h(J\cdot s)\cdot\frac{\nu}{s}$$
 $$\frac{c(m)}{s\lambda(m)}=\frac{\nu}{s}$$
-$$E(J)=h(J\cdot s)\cdot\frac{c(m)}{s\lambda(m)$$
+$$E(J)=h(J\cdot s)\cdot\frac{c(m)}{s\lambda(m)}$$
+Plug in values
+$${20kJ}\cdot\frac{1000J}{1kJ}=\frac{3.00\dot10}{}$$
