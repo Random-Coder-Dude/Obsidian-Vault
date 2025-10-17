@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
+                "file": "Main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bonus - Study Guide"
+              "title": "Main"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
+                "file": "Main.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bonus - Study Guide"
+              "title": "Outline of Main"
             }
           },
           {
@@ -205,12 +205,16 @@
   },
   "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
+    "Images/Pasted image 20251017125026.png",
+    "Images/Pasted image 20251017125013.png",
+    "Images/Pasted image 20251017124941.png",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Untitled.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
     "Main.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.4 - The Wave Behavior of Matter.md",
     "1000 - Science/1200 - AP Chem Notebook/Wood Experiment.md",
     "README.md",
     "Untitled.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.5 - Quantum Mechanics and Atomic Orbitals.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.2 - Quantized Energy and Photons.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Chapter 6.md",
@@ -230,8 +234,6 @@
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.1 - The Nature of Energy.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.6 - Solution Stoichiometry and Chemical Analysis.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.8 - Food and Fuels.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.7 - Enthalpies of Formation.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.6 - Hess Law.md",
     "Images/Pasted image 20251012205244.png",
     "Images/Pasted image 20251012204926.png",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms",
@@ -244,8 +246,6 @@
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry",
     "Untitled.base",
     "Images/Pasted image 20250806185619.png",
-    "Images/Pasted image 20250806184740.png",
-    "Images/Pasted image 20250806142226.png",
     "Untitled.canvas",
     "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1/Exercises",
     "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1/Notes",
