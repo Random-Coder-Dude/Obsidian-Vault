@@ -161,8 +161,9 @@ Higher energy orbitals are bigger in size.
 
 # Misc. Parts
 ## PES (Photoelectron Spectroscopy)
+**Photoelectron Spectroscopy** is a powerful teqnuiqe which lets us 
 
 ## eV (Electronvolt)
 
-## Electron Spin ()
+## Electron Spin (Box Notation)
 # Practice Questions
