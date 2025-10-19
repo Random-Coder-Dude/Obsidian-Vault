@@ -164,7 +164,7 @@ Higher energy orbitals are bigger in size.
 **Photoelectron Spectroscopy** is a powerful technique which lets us find the relative energies of a electron in an atom
 A PES spectrum looks something like this
 ![[Pasted image 20251018205437.png]]
-Each peak in the image represents a subshell where the one with the lowest binding energy is always the $1s$ orbital. By figuring out the relative numbers between the peaks we can experimentally figure out what atom the object is. 
+Each peak in the image represents a subshell where the one with the highest binding energy is always the $1s$ orbital. By figuring out the relative numbers between the peaks we can experimentally figure out what atom the object is. 
 ## eV (Electronvolt)
 
 ## Electron Spin (Box Notation)
