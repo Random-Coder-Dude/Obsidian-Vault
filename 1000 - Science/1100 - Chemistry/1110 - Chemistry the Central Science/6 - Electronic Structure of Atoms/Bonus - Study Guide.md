@@ -175,5 +175,7 @@ The nerdy explanation is that 1eV is equal to the amount of kinetic energy gaine
 Electrons can have 2 different types of spins
 - $\frac{1}{2}$ 
 - $-\frac{1}{2}$
-Each orbital can hold a certain amount of positive spin ele
+Each orbital can hold a certain amount of positive spin electrons and a specific amount of negative spin electrons
+Thankfully each orbital needs these pairs to be balanced
+Now I will demonstrate how to do a box
 # Practice Questions
