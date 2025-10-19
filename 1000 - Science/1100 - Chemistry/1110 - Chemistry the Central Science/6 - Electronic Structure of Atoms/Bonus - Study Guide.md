@@ -160,5 +160,7 @@ Also make sure to know the shapes of all the orbitals
 Higher energy orbitals are bigger in size.
 
 # Misc. Parts
+## PES (Photoelectron Spectroscopy)
+
 ## 
 # Practice Questions
