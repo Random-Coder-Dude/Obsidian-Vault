@@ -182,6 +182,6 @@ Write the box notation for $O$ oxygen
 First what is the electron config for oxygen
 It is $1s^22s^22p^4$ now shorten this $[He]2s^22p^4$
 So we need to draw boxes for the $2s^2$ and $2p^4$ orbitals
-$1s$
 ![[Pasted image 20251018211343.png]]
+When drawing the boxes make sure to always draw all the up arrows first and then the down arrows (In each orbital). That way you follow Hund's rule
 # Practice Questions
