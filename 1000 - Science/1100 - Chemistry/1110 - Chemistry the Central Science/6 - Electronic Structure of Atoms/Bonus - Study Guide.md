@@ -178,5 +178,7 @@ Electrons can have 2 different types of spins
 Each orbital can hold a certain amount of positive spin electrons and a specific amount of negative spin electrons
 Thankfully each orbital needs these pairs to be balanced
 Now I will demonstrate how to do a box notation
-Write the box notation for 
+Write the box notation for $O$ oxygen
+First what is the electron config for oxygen
+It is $1s^22s^22p^6$ now
 # Practice Questions
