@@ -184,4 +184,191 @@ It is $1s^22s^22p^4$ now shorten this $[He]2s^22p^4$
 So we need to draw boxes for the $2s^2$ and $2p^4$ orbitals
 ![[Pasted image 20251018211343.png]]
 When drawing the boxes make sure to always draw all the up arrows first and then the down arrows (In each orbital). That way you follow Hund's rule
-# Practice Questions
+# Chapter 6 Practice Questions
+
+---
+
+## 6.1 — Light as a Form of Radiation
+
+1. A beam of light has a frequency of 5.80 × 10¹⁴ s⁻¹.  
+   a) What is its wavelength?  
+   b) What region of the electromagnetic spectrum does it belong to?  
+
+2. A radio station broadcasts at 98.5 MHz.  
+   - Calculate the wavelength of the radio wave.  
+
+3. If a certain ultraviolet ray has a wavelength of 2.40 × 10⁻⁷ m, what is its frequency?  
+
+4. As wavelength increases, what happens to frequency and energy? Explain why using the equation c = λν.  
+
+5. Which type of radiation has the shortest wavelength: infrared, visible, or ultraviolet?  
+
+---
+
+## 6.2 — Blackbody Problem, Photoelectric Effect, Planck’s Constant
+
+6. Why did early blackbody radiation equations fail to match experimental data?  
+
+7. What observation about the photoelectric effect could not be explained by classical physics?  
+
+8. If a photon has a frequency of 7.25 × 10¹⁴ s⁻¹, calculate its energy in joules.  
+
+9. A metal requires a minimum energy of 3.00 × 10⁻¹⁹ J to eject an electron.  
+   a) What is the threshold frequency?  
+   b) What is the corresponding wavelength?  
+
+10. Explain how Planck’s idea of quantized energy changed our understanding of light and matter.  
+
+---
+
+## 6.3 — Emission Spectra & Bohr Model
+
+11. What causes the bright lines in an emission spectrum?  
+
+12. Using Rydberg’s equation, calculate the energy difference when an electron in hydrogen moves from nᵢ = 3 to n_f = 2.  
+
+13. Which Bohr postulate explains why electrons do not spiral into the nucleus?  
+
+14. When an electron jumps from n = 5 to n = 2 in hydrogen, does it absorb or emit a photon? Explain.  
+
+15. Name two major limitations of Bohr’s atomic model.  
+
+---
+
+## 6.4 — De Broglie & Heisenberg
+
+16. Calculate the wavelength of an electron moving at 2.50 × 10⁶ m/s (electron mass = 9.11 × 10⁻³¹ kg).  
+
+17. Explain why the wave–particle duality of electrons was important in modern physics.  
+
+18. What does the Heisenberg Uncertainty Principle say about measuring an electron’s position and momentum simultaneously?  
+
+19. Why does uncertainty matter for electrons but not for macroscopic objects like baseballs?  
+
+20. What does a “probability cloud” represent in quantum mechanics?  
+
+---
+
+## 6.5 — Quantum Numbers and Orbitals
+
+21. List the four quantum numbers and what each represents.  
+
+22. For n = 3,  
+   a) What are the possible values of l?  
+   b) What are the possible values of m for each l?  
+
+23. What shape corresponds to the p orbital? To the d orbital?  
+
+24. How many orbitals exist in the n = 4 shell?  
+
+25. Describe the difference between an atom in its ground state and one in an excited state.  
+
+---
+
+## 6.6 — Aufbau Principle and Orbital Filling
+
+26. Write the electron configuration for:  
+   a) Nitrogen (N)  
+   b) Calcium (Ca)  
+   c) Iron (Fe)  
+
+27. Use the Aufbau principle to determine the ground-state configuration of phosphorus.  
+
+28. Draw the box notation for carbon and label the spin of each electron.  
+
+29. What rule tells you to fill each orbital with one electron before pairing them?  
+
+30. Which orbital (2p or 3s) has higher energy? Explain.  
+
+---
+
+## Miscellaneous Topics
+
+31. What information does a PES (Photoelectron Spectroscopy) spectrum give about an atom?  
+
+32. In a PES spectrum, which orbital always appears at the highest binding energy?  
+
+33. The conversion factor between joules and electronvolts is 1 eV = 1.602 × 10⁻¹⁹ J.  
+   a) Convert 5.00 × 10⁻¹⁹ J into eV.  
+   b) Convert 12.0 eV into joules.  
+
+34. Define electron spin and explain why each orbital can hold only two electrons.  
+
+35. Based on the PES spectrum showing peaks for 1s, 2s, and 2p orbitals, which element could it represent?  
+
+---
+
+## Challenge Problems
+
+36. A photon has a wavelength of 4.50 × 10⁻⁷ m.  
+   - Find its frequency and energy.  
+
+37. Using the Rydberg equation, calculate the wavelength of light emitted when an electron in hydrogen moves from n = 4 to n = 2.  
+
+38. The work function of a certain metal is 2.20 eV. What wavelength of light is just sufficient to eject electrons from the surface?  
+
+39. Determine all possible sets of quantum numbers (n, l, m) for the 3p subshell.  
+
+40. Explain how the ideas of Planck, Einstein, Bohr, De Broglie, and Heisenberg each contributed to quantum theory.  
+
+---
+
+# Answer Key
+
+### 6.1
+1. λ = c/ν = 3.00×10⁸ / 5.80×10¹⁴ ≈ 5.17×10⁻⁷ m → Visible  
+2. λ = c/ν = 3.00×10⁸ / 9.85×10⁷ ≈ 3.05 m → Radio  
+3. ν = c/λ = 3.00×10⁸ / 2.40×10⁻⁷ ≈ 1.25×10¹⁵ s⁻¹ → Ultraviolet  
+4. As wavelength ↑, frequency ↓, energy ↓ (E = hν)  
+5. Ultraviolet  
+
+### 6.2
+6. Classical blackbody radiation predicted infinite energy at short wavelengths (“ultraviolet catastrophe”).  
+7. Photoelectric effect occurs only above threshold frequency; classical theory predicted intensity mattered, not frequency.  
+8. E = hν = 6.63×10⁻³⁴ × 7.25×10¹⁴ ≈ 4.80×10⁻¹⁹ J  
+9. ν_threshold = E/h ≈ 4.53×10¹⁴ s⁻¹; λ_threshold = c/ν ≈ 6.62×10⁻⁷ m  
+10. Energy is quantized; light interacts as photons, solving blackbody and photoelectric effects  
+
+### 6.3
+11. Electrons dropping to lower energy levels emit photons at specific wavelengths.  
+12. ΔE = R_H(1/2² - 1/3²) × hc ≈ 1.89×10⁻¹⁸ J  
+13. Bohr’s 2nd postulate (Stable Energy States)  
+14. Emit photon  
+15. Fails for multi-electron atoms; does not explain why electrons don’t collapse  
+
+### 6.4
+16. λ = h / (mv) ≈ 2.90×10⁻¹⁰ m  
+17. Electrons behave as both particles and waves → quantum mechanics  
+18. Δx·Δp ≥ h/4π  
+19. Large mass → Δp negligible, so macroscopic objects not affected  
+20. Probability distribution of electron’s position  
+
+### 6.5
+21. n = principal, l = angular, m = magnetic, s = spin  
+22. a) l = 0,1,2 b) m = -l…+l  
+23. p → dumbbell, d → clover  
+24. n² = 16 orbitals  
+25. Ground = lowest energy, Excited = higher energy  
+
+### 6.6
+26. a) 1s²2s²2p³ b) [Ar]4s² c) [Ar]4s²3d⁶  
+27. [Ne]3s²3p³  
+28. Box notation: 1s ↑↓ 2s ↑↓ 2p ↑ ↑ ↑  
+29. Hund’s rule  
+30. 3s higher than 2p → higher principal quantum number  
+
+### Misc
+31. Binding energies of electrons/subshells  
+32. 1s orbital  
+33. a) 5.00×10⁻¹⁹ / 1.602×10⁻¹⁹ ≈ 3.12 eV b) 12×1.602×10⁻¹⁹ ≈ 1.92×10⁻¹⁸ J  
+34. Spin = ±½; 2 electrons per orbital (Pauli exclusion)  
+35. Oxygen ([He]2s²2p⁴)  
+
+### Challenge
+36. ν = c/λ ≈ 6.67×10¹⁴ s⁻¹, E = hν ≈ 4.42×10⁻¹⁹ J  
+37. λ ≈ 486 nm  
+38. λ = hc/E ≈ 564 nm  
+39. n=3, l=1 → m=-1,0,1 → 3 orbitals → 6 electrons possible  
+40. Planck: quantized energy; Einstein: photons; Bohr: energy levels; De Broglie: matter waves; Heisenberg: uncertainty  
+
+
