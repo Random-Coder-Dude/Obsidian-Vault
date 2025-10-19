@@ -183,9 +183,5 @@ First what is the electron config for oxygen
 It is $1s^22s^22p^4$ now shorten this $[He]2s^22p^4$
 So we need to draw boxes for the $2s^2$ and $2p^4$ orbitals
 $1s$
-
-| $\arrowup$ |     |
-| ---------- | --- |
-|            |     |
-
+![[Pasted image 20251018211343.png]]
 # Practice Questions
