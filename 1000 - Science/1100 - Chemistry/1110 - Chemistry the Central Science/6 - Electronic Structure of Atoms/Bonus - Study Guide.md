@@ -167,6 +167,8 @@ A PES spectrum looks something like this
 Each peak in the image represents a subshell where the one with the highest binding energy is always the $1s$ orbital. By figuring out the relative numbers between the peaks we can experimentally figure out what atom the analyzed object is. In this case we can see 3 peaks which means 3 orbitals. 
 Through Aufbau's principle we know it contains a $1s, 2s, 2p$ orbitals by seeing the relative heights we can clearly say that this atom has the electron config of $1s^22s^22p^4$ which is a spitting image of Oxygen
 ## eV (Electronvolt)
+Just know the conversion factor for eV to J
+$$1eV=1.602\cdot10^{-19}J$$
 
 
 ## Electron Spin (Box Notation)
