@@ -169,7 +169,7 @@ Through Aufbau's principle we know it contains a $1s, 2s, 2p$ orbitals by seeing
 ## eV (Electronvolt)
 Just know the conversion factor for eV to J
 $$1eV=1.602\cdot10^{-19}J$$
-
+The nerdy explanation is that 1eV is equal to the amount of kinetic energy gained by a single electron when accelerating through an electrical potential difference of 1 volt in a vacumn
 
 ## Electron Spin (Box Notation)
 # Practice Questions
