@@ -159,4 +159,6 @@ Also make sure to know the shapes of all the orbitals
 ![[Pasted image 20251017125026.png]]
 Higher energy orbitals are bigger in size.
 
+# Misc. Parts
+## 
 # Practice Questions

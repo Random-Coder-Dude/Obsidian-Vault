@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "Bonus - Study Guide"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Main"
+              "title": "Outline of Bonus - Study Guide"
             }
           },
           {
@@ -206,8 +206,8 @@
   },
   "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.2 - Quantized Energy and Photons.md",
     "Main.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.2 - Quantized Energy and Photons.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Chapter 6.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.5 - Quantum Mechanics and Atomic Orbitals.md",
