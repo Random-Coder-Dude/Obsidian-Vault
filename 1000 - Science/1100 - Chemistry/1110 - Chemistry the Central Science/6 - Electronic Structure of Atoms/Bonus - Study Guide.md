@@ -161,9 +161,10 @@ Higher energy orbitals are bigger in size.
 
 # Misc. Parts
 ## PES (Photoelectron Spectroscopy)
-**Photoelectron Spectroscopy** is a powerful technique which lets us find the relative energies of a electron in an atom. A PES spectrum looks something like this
-
-
+**Photoelectron Spectroscopy** is a powerful technique which lets us find the relative energies of a electron in an atom
+A PES spectrum looks something like this
+![[Pasted image 20251018205437.png]]
+Each peak in the i
 ## eV (Electronvolt)
 
 ## Electron Spin (Box Notation)
