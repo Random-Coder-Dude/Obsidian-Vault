@@ -174,5 +174,6 @@ The nerdy explanation is that 1eV is equal to the amount of kinetic energy gaine
 ## Electron Spin (Box Notation)
 Electrons can have 2 different types of spins
 - $\frac{1}{2}$ 
-- 
+- $-\frac{1}{2}$
+Each orbital can hold a certain amount of positive spin ele
 # Practice Questions
