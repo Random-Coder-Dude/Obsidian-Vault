@@ -14,8 +14,8 @@ We want to calculate the **radial probability density** \(P_{3s}(r)\) of an elec
 ## Step 0: What we are doing
 
 - The electron is attracted to the nucleus by the **Coulomb force**.
-- Quantum mechanics says we **cannot know the exact position**, instead we compute a **wavefunction** $\(\psi(r,\theta,\phi)\).
-- The probability of finding the electron in a spherical shell of radius \(r\) and thickness \(dr\) is:
+- Quantum mechanics says we **cannot know the exact position**, instead we compute a **wavefunction** $(\psi(r,\theta,\phi))$.
+- The probability of finding the electron in a spherical shell of radius $(r)$ and thickness $(dr)$ is:
 
 $$
 dP = |\psi(r,\theta,\phi)|^2 \, dV
