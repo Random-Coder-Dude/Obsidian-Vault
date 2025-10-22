@@ -49,26 +49,10 @@
       "key": "A"
     }
   ],
-  "editor:insert-callout": [
-    {
-      "modifiers": [
-        "Meta"
-      ],
-      "key": "`"
-    }
-  ],
   "templater-obsidian:9000 - Templates/Daily Note.md": [
     {
       "modifiers": [
         "Alt"
-      ],
-      "key": "`"
-    }
-  ],
-  "templater-obsidian:9000 - Templates/Auto Template.md": [
-    {
-      "modifiers": [
-        "Mod"
       ],
       "key": "`"
     }
@@ -113,6 +97,14 @@
         "Mod"
       ],
       "key": "F3"
+    }
+  ],
+  "templater-obsidian:9000 - Templates/Auto Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "`"
     }
   ]
 }
