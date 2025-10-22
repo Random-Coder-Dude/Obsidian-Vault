@@ -62,11 +62,11 @@ Breakdown:
 - $(\mu)$ = reduced mass (explained below)  
 - Units check: $(\hbar^2 / 2\mu \sim \mathrm{J \cdot m^2 / kg} = \mathrm{J})$, same as energy 
 
-2. **Potential Energy Term:** \(-\frac{Z e^2}{4 \pi \epsilon_0 r}\)  
+1. **Potential Energy Term:** $(-\frac{Z e^2}{4 \pi \epsilon_0 r})$  
 
-- \(Z\) = number of protons (16 for sulfur)  
-- \(e\) = elementary charge (\(1.602 \times 10^{-19}\ \mathrm{C}\))  
-- \(\epsilon_0\) = permittivity of free space (\(8.854 \times 10^{-12} \mathrm{C^2/(N\cdot m^2)}\))  
+- ($Z$) = number of protons (16 for sulfur)  
+- ($e$) = elementary charge $(1.602 \times 10^{-19}\ \mathrm{C}$)  
+- ($\epsilon_0$) = permittivity of free space $(8.854 \times 10^{-12} \mathrm{C^2/(N\cdot m^2)})$  
 - \(r\) = distance from nucleus (m)  
 - Units check: \(e^2 / 4\pi\epsilon_0 r \sim \mathrm{J}\) ✅  
 
