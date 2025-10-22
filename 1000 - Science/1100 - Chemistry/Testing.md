@@ -57,10 +57,10 @@ Breakdown:
 
 1. **Kinetic Energy Term:** ($-\frac{\hbar^2}{2 \mu} \nabla^2$)  
 
-- \(\hbar\) = reduced Planck constant, a tiny number (\(1.0545718 \times 10^{-34}\ \mathrm{J\cdot s}\))  
-- \(\nabla^2\) = Laplacian = second derivative in space (measures how the wavefunction curves)  
-- \(\mu\) = reduced mass (explained below)  
-- Units check: \(\hbar^2 / 2\mu \sim \mathrm{J \cdot m^2 / kg} = \mathrm{J}\), same as energy ✅  
+- ($\hbar$) = reduced Planck constant, a tiny number $(1.0545718 \times 10^{-34}\ \mathrm{J\cdot s}$)  
+- $(\nabla^2)$ = Laplacian = second derivative in space (measures how the wavefunction curves)  
+- $(\mu)$ = reduced mass (explained below)  
+- Units check: $(\hbar^2 / 2\mu \sim \mathrm{J \cdot m^2 / kg} = \mathrm{J})$, same as energy 
 
 2. **Potential Energy Term:** \(-\frac{Z e^2}{4 \pi \epsilon_0 r}\)  
 
