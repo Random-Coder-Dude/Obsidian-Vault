@@ -21,7 +21,7 @@ $$
 |\psi|^2 = \text{probability density}
 $$
 
-- Units of \(|\psi|^2\) must make sense so that **integrating over all space gives 1**, meaning the electron must exist somewhere.
+- Units of ($|\psi|^2$) must make sense so that **integrating over all space gives 1**, meaning the electron must exist somewhere.
 
 - The **3s orbital** is a “spherical shell” around the nucleus with **n = 3** energy level and **s-type (spherical) shape**.
 
@@ -37,9 +37,9 @@ $$
 
 Where:
 
-- \(\hat{H}\) = Hamiltonian = total energy operator (kinetic + potential energy)  
-- \(\psi\) = wavefunction of the electron  
-- \(E\) = total energy of the electron  
+- ($\hat{H}$) = Hamiltonian = total energy operator (kinetic + potential energy)  
+- ($\psi$) = wavefunction of the electron  
+- ($E$) = total energy of the electron  
 
 **Why this is important:** Solving this equation tells us **allowed energies and shapes of orbitals**.
 
@@ -55,7 +55,7 @@ $$
 
 Breakdown:
 
-1. **Kinetic Energy Term:** \(-\frac{\hbar^2}{2 \mu} \nabla^2\)  
+1. **Kinetic Energy Term:** ($-\frac{\hbar^2}{2 \mu} \nabla^2$)  
 
 - \(\hbar\) = reduced Planck constant, a tiny number (\(1.0545718 \times 10^{-34}\ \mathrm{J\cdot s}\))  
 - \(\nabla^2\) = Laplacian = second derivative in space (measures how the wavefunction curves)  
