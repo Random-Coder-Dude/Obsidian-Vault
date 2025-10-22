@@ -5,246 +5,227 @@ tags:
 cssclasses:
   - default
 ---
-# Quantum Wavefunctions: Complete Conceptual Study Guide
+# Quantum Mechanics Study Guide: Building Up to the Schrödinger Equation
 
-## Preface
+## Part 0: Absolute Foundations — Concepts of Physics and Mathematics Needed
 
-This guide explains **quantum wavefunctions** from scratch, assuming **no prior knowledge** of physics, chemistry, or advanced mathematics.  
-- Includes **units, reasoning, and step-by-step derivations**.  
-- Designed to help you **conceptually understand and derive any wavefunction**.
+Before we even talk about electrons or wavefunctions, we need a firm foundation in **basic concepts**.
 
 ---
 
-# Part 1: Foundations
+### 0.1 What is a Physical Quantity?
 
-## 1.1 What is a wavefunction?
+- A **physical quantity** is something measurable: e.g., length, mass, time, charge, energy.  
+- Every physical quantity has a **unit**:
 
-- A **wavefunction** $\psi(\mathbf{r}, t)$ is a mathematical function that describes the **quantum state** of a particle, such as an electron.  
-- The **square of its magnitude** gives the **probability density** of finding the particle in space:
+| Quantity | Symbol | SI Unit |
+|----------|--------|---------|
+| Length | $L$ | meter (m) |
+| Mass | $M$ | kilogram (kg) |
+| Time | $T$ | second (s) |
+| Electric charge | $Q$ | coulomb (C) |
+| Energy | $E$ | joule (J) |
 
-$$
-|\psi|^2 = \text{probability density}
-$$
-
-- **Units**: In 3D space, $|\psi|^2$ has units of $\mathrm{m^{-3}}$ so that
-
-$$
-\int_{\text{all space}} |\psi|^2 dV = 1
-$$
-
-**Why:** The particle must exist somewhere, so the total probability is 1.
+**Dimensional analysis** allows us to check formulas: for example, energy $E$ has units of $ML^2T^{-2}$.
 
 ---
 
-## 1.2 Time-Independent Schrödinger Equation (TISE)
+### 0.2 Vectors and Scalars
 
-For stationary states (time-independent systems):
+- **Scalars**: numbers with magnitude only (e.g., temperature, mass)  
+- **Vectors**: numbers with magnitude **and direction** (e.g., position, velocity, force)  
+
+- In 3D space, a vector $\mathbf{r}$ can be written as:
 
 $$
-\hat{H} \psi = E \psi
+\mathbf{r} = x \hat{i} + y \hat{j} + z \hat{k}
+$$
+
+- **Magnitude** of a vector:
+
+$$
+|\mathbf{r}| = \sqrt{x^2 + y^2 + z^2}
+$$
+
+- **Unit check:** Each component $x, y, z$ has units of meters → $|\mathbf{r}|$ also in meters ✅
+
+**Why:** Electrons and other particles live in 3D space. We need vectors to describe their positions.
+
+---
+
+### 0.3 Motion in Space
+
+- **Position vector:** $\mathbf{r}(t)$ describes where a particle is at time $t$  
+- **Velocity:** $\mathbf{v} = \frac{d\mathbf{r}}{dt}$ → units m/s  
+- **Acceleration:** $\mathbf{a} = \frac{d\mathbf{v}}{dt}$ → units m/s²  
+
+- **Newton’s Second Law** (classical mechanics):
+
+$$
+\mathbf{F} = m \mathbf{a}
+$$
+
+- Units check: $[F] = kg \cdot m/s^2 = \text{newton (N)}$ ✅
+
+**Why:** Before electrons, we understand classical particles — quantum particles generalize this.
+
+---
+
+### 0.4 Energy
+
+- **Kinetic energy (motion):**
+
+$$
+KE = \frac{1}{2} m v^2
+$$
+
+- **Potential energy (position in a field):** depends on the force. Example: gravitational:
+
+$$
+PE = m g h
+$$
+
+- **Total energy:**
+
+$$
+E = KE + PE
+$$
+
+- Units: Joules (kg·m²/s²)
+
+**Why:** In quantum mechanics, energy plays the same role, but it becomes an **operator**.
+
+---
+
+### 0.5 Waves
+
+Electrons behave like **waves** as well as particles. To understand wavefunctions, we must first understand **waves mathematically**.
+
+- **1D wave equation:**
+
+$$
+\frac{\partial^2 u}{\partial t^2} = c^2 \frac{\partial^2 u}{\partial x^2}
 $$
 
 Where:
 
-- $\hat{H}$ = Hamiltonian = total energy operator (kinetic + potential)  
-- $E$ = energy eigenvalue  
-- $\psi$ = wavefunction of stationary state  
+- $u(x,t)$ = displacement at position $x$ and time $t$  
+- $c$ = wave speed (m/s)  
 
-**Conceptual Note:** Solving this equation gives **allowed energies** and **shapes of orbitals**.
+- General solution:
+
+$$
+u(x,t) = f(x-ct) + g(x+ct)
+$$
+
+- Units check: $[u]$ = whatever the displacement unit is (e.g., meters) ✅  
+
+**Conceptual note:** A wave carries energy and can interfere, like light, sound, or the quantum probability wave.
 
 ---
 
-### 1.2.1 Hamiltonian for a single particle
+### 0.6 Complex Numbers
+
+Quantum wavefunctions are **complex-valued**, meaning they involve $\mathbf{i} = \sqrt{-1}$.
+
+- $z = a + i b$, $a, b$ real numbers  
+- Magnitude: $|z| = \sqrt{a^2 + b^2}$  
+- **Why:** Complex numbers allow **oscillations and phases** in quantum mechanics.
+
+- **Euler’s formula:**
 
 $$
-\hat{H} = -\frac{\hbar^2}{2 m} \nabla^2 + V(\mathbf{r})
+e^{i \theta} = \cos\theta + i \sin\theta
 $$
 
-- **Kinetic energy**: $-\frac{\hbar^2}{2 m} \nabla^2$  
-- **Potential energy**: $V(\mathbf{r})$  
-
-**Units check:**  
-- $\hbar^2 / 2 m \sim \mathrm{J \cdot m^2 / kg} = \mathrm{J}$ ✅  
-
-**Why:** The kinetic term measures how the wavefunction “curves” in space; the potential term depends on position.
+- Unit check: $\theta$ is dimensionless → $e^{i\theta}$ is dimensionless ✅
 
 ---
 
-## 1.3 Probability and Normalization
+### 0.7 Partial Derivatives
 
-- Probability of finding particle in a volume $dV$:
-
-$$
-dP = |\psi(\mathbf{r})|^2 dV
-$$
-
-- Normalization condition:
+- In multi-variable systems (like 3D space or space+time), we need **partial derivatives**:
 
 $$
-\int_{\text{all space}} |\psi|^2 dV = 1
+\frac{\partial f}{\partial x} \quad \text{means change in $f$ with $x$ keeping other variables constant}
 $$
 
-**Why:** Ensures the total probability of finding the particle somewhere in space is 1.
+- Second derivative:
+
+$$
+\frac{\partial^2 f}{\partial x^2}
+$$
+
+- **Why:** Waves and quantum mechanics involve second derivatives in space and time (curvature of the wavefunction).
 
 ---
 
-## 1.4 Dimensional Analysis
+### 0.8 Introduction to Differential Equations
 
-| Quantity | Symbol | Units | Explanation |
-|----------|--------|-------|-------------|
-| Wavefunction | $\psi$ | m$^{-3/2}$ | Normalized in 3D |
-| Probability density | $|\psi|^2$ | m$^{-3}$ | Integrates to 1 |
-| Position | $r$ | m | Distance from reference |
-| Momentum | $p$ | kg·m/s | Mass × velocity |
-| Energy | $E$ | J | Kinetic + potential energy |
+- Equations that involve derivatives are called **differential equations**.  
+
+- Example: 1D wave equation:
+
+$$
+\frac{\partial^2 u}{\partial t^2} - c^2 \frac{\partial^2 u}{\partial x^2} = 0
+$$
+
+- **Why:** Schrödinger’s equation is a **partial differential equation (PDE)**.
 
 ---
 
-# Part 2: Solving Wavefunctions in One Dimension
+### 0.9 Superposition Principle
 
-## 2.1 Infinite Square Well (1D Box)
-
-- Particle confined between $x = 0$ and $x = L$  
-- Potential:
+- Waves can **add together**:
 
 $$
-V(x) =
-\begin{cases}
-0 & 0 < x < L \\
-\infty & \text{otherwise}
-\end{cases}
+u_{\text{total}} = u_1 + u_2
 $$
 
-- Schrödinger equation:
+- In quantum mechanics, **wavefunctions also obey superposition**:
 
 $$
--\frac{\hbar^2}{2 m} \frac{d^2 \psi}{dx^2} = E \psi
+\psi_{\text{total}} = \psi_1 + \psi_2
 $$
 
-- Boundary conditions: $\psi(0) = \psi(L) = 0$  
+- Unit check: same as original wavefunction ✅
 
-**Solution**:
-
-$$
-\psi_n(x) = \sqrt{\frac{2}{L}} \sin\left(\frac{n \pi x}{L}\right), \quad n = 1,2,3,...
-$$
-
-- Energy levels:
-
-$$
-E_n = \frac{n^2 \pi^2 \hbar^2}{2 m L^2}
-$$
-
-**Why:** The wavefunction must vanish at infinite walls → sine solutions.
+- **Why:** Key property for interference, which is fundamental in quantum mechanics.
 
 ---
 
-## 2.2 Free Particle
+### 0.10 Probability in Continuous Systems
 
-- Potential $V(x) = 0$ everywhere  
-- Schrödinger equation:
-
-$$
--\frac{\hbar^2}{2 m} \frac{d^2 \psi}{dx^2} = E \psi
-$$
-
-- Solution: plane waves  
+- For a particle along a line (1D):
 
 $$
-\psi(x) = A e^{ikx} + B e^{-ikx}, \quad k = \frac{\sqrt{2 m E}}{\hbar}
+\int_{-\infty}^{\infty} P(x) dx = 1
 $$
 
-- Concept: The particle is **completely delocalized**, uniform probability over space.
+- Probability density $P(x)$ units: m$^{-1}$ ✅  
+- In 3D:
+
+$$
+\int |\psi(x,y,z)|^2 dV = 1
+$$
+
+- Units of $|\psi|^2$: m$^{-3}$ ✅
+
+**Why:** Quantum mechanics deals with probabilities, not exact positions.
 
 ---
 
-## 2.3 Harmonic Oscillator (1D)
+### Summary of Foundations (Part 0)
 
-- Potential:
+Before even writing Schrödinger’s equation, we have covered:
 
-$$
-V(x) = \frac{1}{2} m \omega^2 x^2
-$$
+1. Basic units, dimensions, and physical quantities  
+2. Scalars, vectors, and 3D space  
+3. Motion, forces, and energy  
+4. Waves, oscillations, and wave equations  
+5. Complex numbers and Euler’s formula  
+6. Partial derivatives and PDEs  
+7. Superposition principle  
+8. Probability densities and normalization  
 
-- Solutions involve **Hermite polynomials** $H_n(x)$:
-
-$$
-\psi_n(x) = \left(\frac{m \omega}{\pi \hbar}\right)^{1/4} \frac{1}{\sqrt{2^n n!}} H_n\left(\sqrt{\frac{m \omega}{\hbar}} x\right) e^{-m \omega x^2 / 2 \hbar}
-$$
-
-- Energy levels:  
-
-$$
-E_n = \hbar \omega \left(n + \frac{1}{2}\right)
-$$
-
-**Conceptual note:** Harmonic oscillator wavefunctions are **Gaussian-like shapes** modulated by polynomials.
-
----
-
-# Part 3: Three-Dimensional Central Potentials
-
-## 3.1 Spherical Coordinates
-
-- Many systems are **radially symmetric**, e.g., atoms  
-- Coordinates: $r$ (radius), $\theta$ (polar), $\phi$ (azimuthal)  
-
-$$
-dV = r^2 \sin\theta \, dr \, d\theta \, d\phi
-$$
-
-- Laplacian in spherical coordinates:
-
-$$
-\nabla^2 = \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial}{\partial r} \right) + \frac{1}{r^2 \sin\theta} \frac{\partial}{\partial \theta} \left( \sin\theta \frac{\partial}{\partial \theta} \right) + \frac{1}{r^2 \sin^2\theta} \frac{\partial^2}{\partial \phi^2}
-$$
-
----
-
-## 3.2 Hydrogen-like Atom
-
-- Potential:
-
-$$
-V(r) = -\frac{Z e^2}{4 \pi \epsilon_0 r}
-$$
-
-- Separate variables:  
-
-$$
-\psi(r, \theta, \phi) = R(r) Y_\ell^m(\theta, \phi)
-$$
-
-- Radial equation:
-
-$$
--\frac{\hbar^2}{2 \mu} \left( \frac{d^2 R}{dr^2} + \frac{2}{r} \frac{dR}{dr} - \frac{\ell(\ell+1)}{r^2} R \right) - \frac{Z e^2}{4 \pi \epsilon_0 r} R = E R
-$$
-
-- Angular part: **Spherical harmonics** $Y_\ell^m$  
-- **Quantum numbers:** $n$, $\ell$, $m$  
-
----
-
-## 3.3 Steps to Solve Any Orbital
-
-1. Determine **$Z$**, the nuclear charge  
-2. Include **reduced mass**:
-
-$$
-\mu = \frac{m_e M}{m_e + M}
-$$
-
-3. Solve **radial Schrödinger equation**  
-4. Solve **angular Schrödinger equation** → $Y_\ell^m$  
-5. Combine radial and angular parts:
-
-$$
-\psi_{n\ell m}(r, \theta, \phi) = R_{n\ell}(r) Y_\ell^m(\theta, \phi)
-$$
-
-6. Normalize the wavefunction:
-
-$$
-\int_0^\infty \int_0^\pi \int_0^{2\pi} |\psi_{n\ell m}(r,\theta,\phi)|^2 r^2 \sin\theta \, dr \, d\theta \, d\phi = 1
-$$
+**Next Step (Part 1):** We will start **connecting classical energy and wave concepts** to **quantum wavefunctions**, gradually building the Schrödinger equation from these foundations.
