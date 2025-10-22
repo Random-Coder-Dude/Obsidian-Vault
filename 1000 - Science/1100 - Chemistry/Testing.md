@@ -67,14 +67,14 @@ Breakdown:
 - ($Z$) = number of protons (16 for sulfur)  
 - ($e$) = elementary charge $(1.602 \times 10^{-19}\ \mathrm{C}$)  
 - ($\epsilon_0$) = permittivity of free space $(8.854 \times 10^{-12} \mathrm{C^2/(N\cdot m^2)})$  
-- \(r\) = distance from nucleus (m)  
-- Units check: \(e^2 / 4\pi\epsilon_0 r \sim \mathrm{J}\) ✅  
+- $(r)$ = distance from nucleus ($m$)  
+- Units check: ($e^2 / 4\pi\epsilon_0 r \sim \mathrm{J}$)  
 
 **Why the minus sign?** The electron is **attracted** to the nucleus, so potential energy is negative.
 
 ---
 
-### Step 1b: Reduced mass \(\mu\)
+### Step 1b: Reduced mass ($\mu$)
 
 - In real life, the nucleus is **not infinitely heavy**. Both electron and nucleus move slightly.  
 - The **reduced mass** accounts for this:
@@ -85,7 +85,7 @@ $$
 
 Where:
 
-- \(m_e\) = electron mass (\(9.109 \times 10^{-31}\ \mathrm{kg}\))  
+- ($m_e$) = electron mass (\(9.109 \times 10^{-31}\ \mathrm{kg}\))  
 - \(M\) = sulfur nucleus mass (\(\approx 5.31 \times 10^{-26}\ \mathrm{kg}\))  
 
 $$
