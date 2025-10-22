@@ -5,31 +5,40 @@ tags:
 cssclasses:
   - default
 ---
-# Detailed Explanation of the 3s Orbital of Sulfur (Quantum Chemistry, No Approximations)
+# Quantum Wavefunctions: Complete Conceptual Study Guide
 
-We want to find the **exact probability distribution** of an electron in the **3s orbital of sulfur**, including **reduced mass correction** and all physical constants. This will involve **quantum mechanics, math, and dimensional analysis**, explained in detail.
+## Preface
+
+This guide explains **quantum wavefunctions** from scratch, assuming **no prior knowledge** of physics, chemistry, or advanced mathematics.  
+- Includes **units, reasoning, and step-by-step derivations**.  
+- Designed to help you **conceptually understand and derive any wavefunction**.
 
 ---
 
-## Step 0: What is an orbital?
+# Part 1: Foundations
 
-- Electrons are **tiny negatively charged particles** that orbit a nucleus (protons + neutrons) in an atom.
-- We **cannot know exactly where an electron is** due to quantum mechanics. Instead, we describe **where it is likely to be** using a **wavefunction**, denoted ($\psi$).
-- The **wavefunction** is a mathematical function of position, ($\psi(x,y,z)$) or ($\psi(r,\theta,\phi)$). Its **square** gives the **probability density** of finding the electron somewhere:
+## 1.1 What is a wavefunction?
+
+- A **wavefunction** $\psi(\mathbf{r}, t)$ is a mathematical function that describes the **quantum state** of a particle, such as an electron.  
+- The **square of its magnitude** gives the **probability density** of finding the particle in space:
 
 $$
 |\psi|^2 = \text{probability density}
 $$
 
-- Units of ($|\psi|^2$) must make sense so that **integrating over all space gives 1**, meaning the electron must exist somewhere.
+- **Units**: In 3D space, $|\psi|^2$ has units of $\mathrm{m^{-3}}$ so that
 
-- The **3s orbital** is a “spherical shell” around the nucleus with **n = 3** energy level and **s-type (spherical) shape**.
+$$
+\int_{\text{all space}} |\psi|^2 dV = 1
+$$
+
+**Why:** The particle must exist somewhere, so the total probability is 1.
 
 ---
 
-## Step 1: Schrödinger Equation
+## 1.2 Time-Independent Schrödinger Equation (TISE)
 
-The **Schrödinger equation** is the foundation of quantum mechanics. It’s like **Newton’s laws**, but for tiny particles:
+For stationary states (time-independent systems):
 
 $$
 \hat{H} \psi = E \psi
@@ -37,208 +46,205 @@ $$
 
 Where:
 
-- ($\hat{H}$) = Hamiltonian = total energy operator (kinetic + potential energy)  
-- ($\psi$) = wavefunction of the electron  
-- ($E$) = total energy of the electron  
+- $\hat{H}$ = Hamiltonian = total energy operator (kinetic + potential)  
+- $E$ = energy eigenvalue  
+- $\psi$ = wavefunction of stationary state  
 
-**Why this is important:** Solving this equation tells us **allowed energies and shapes of orbitals**.
-
----
-
-### Step 1a: Hamiltonian for a hydrogen-like atom
-
-For a single electron around a nucleus:
-
-$$
-\hat{H} = -\frac{\hbar^2}{2 \mu} \nabla^2 - \frac{Z e^2}{4 \pi \epsilon_0 r}
-$$
-
-Breakdown:
-
-1. **Kinetic Energy Term:** ($-\frac{\hbar^2}{2 \mu} \nabla^2$)  
-
-- ($\hbar$) = reduced Planck constant, a tiny number $(1.0545718 \times 10^{-34}\ \mathrm{J\cdot s}$)  
-- $(\nabla^2)$ = Laplacian = second derivative in space (measures how the wavefunction curves)  
-- $(\mu)$ = reduced mass (explained below)  
-- Units check: $(\hbar^2 / 2\mu \sim \mathrm{J \cdot m^2 / kg} = \mathrm{J})$, same as energy 
-
-1. **Potential Energy Term:** $(-\frac{Z e^2}{4 \pi \epsilon_0 r})$  
-
-- ($Z$) = number of protons (16 for sulfur)  
-- ($e$) = elementary charge $(1.602 \times 10^{-19}\ \mathrm{C}$)  
-- ($\epsilon_0$) = permittivity of free space $(8.854 \times 10^{-12} \mathrm{C^2/(N\cdot m^2)})$  
-- $(r)$ = distance from nucleus ($m$)  
-- Units check: ($e^2 / 4\pi\epsilon_0 r \sim \mathrm{J}$)  
-
-**Why the minus sign?** The electron is **attracted** to the nucleus, so potential energy is negative.
+**Conceptual Note:** Solving this equation gives **allowed energies** and **shapes of orbitals**.
 
 ---
 
-### Step 1b: Reduced mass ($\mu$)
-
-- In real life, the nucleus is **not infinitely heavy**. Both electron and nucleus move slightly.  
-- The **reduced mass** accounts for this:
+### 1.2.1 Hamiltonian for a single particle
 
 $$
-\mu = \frac{m_e M}{m_e + M}
+\hat{H} = -\frac{\hbar^2}{2 m} \nabla^2 + V(\mathbf{r})
 $$
 
-Where:
+- **Kinetic energy**: $-\frac{\hbar^2}{2 m} \nabla^2$  
+- **Potential energy**: $V(\mathbf{r})$  
 
-- ($m_e$) = electron mass (\(9.109 \times 10^{-31}\ \mathrm{kg}\))  
-- \(M\) = sulfur nucleus mass (\(\approx 5.31 \times 10^{-26}\ \mathrm{kg}\))  
+**Units check:**  
+- $\hbar^2 / 2 m \sim \mathrm{J \cdot m^2 / kg} = \mathrm{J}$ ✅  
 
-$$
-\mu \approx 9.097 \times 10^{-31}\ \mathrm{kg}
-$$
-
-- Units: kg ✅  
-- **Why important:** Gives slightly smaller Bohr radius → more accurate orbital.
+**Why:** The kinetic term measures how the wavefunction “curves” in space; the potential term depends on position.
 
 ---
 
-## Step 2: Spherical coordinates
+## 1.3 Probability and Normalization
 
-- The potential depends **only on distance \(r\)** from the nucleus.  
-- Use **spherical coordinates**: \(r\) (radius), \(\theta\) (angle from z-axis), \(\phi\) (angle around z-axis).  
-- Volume element in spherical coordinates:
+- Probability of finding particle in a volume $dV$:
+
+$$
+dP = |\psi(\mathbf{r})|^2 dV
+$$
+
+- Normalization condition:
+
+$$
+\int_{\text{all space}} |\psi|^2 dV = 1
+$$
+
+**Why:** Ensures the total probability of finding the particle somewhere in space is 1.
+
+---
+
+## 1.4 Dimensional Analysis
+
+| Quantity | Symbol | Units | Explanation |
+|----------|--------|-------|-------------|
+| Wavefunction | $\psi$ | m$^{-3/2}$ | Normalized in 3D |
+| Probability density | $|\psi|^2$ | m$^{-3}$ | Integrates to 1 |
+| Position | $r$ | m | Distance from reference |
+| Momentum | $p$ | kg·m/s | Mass × velocity |
+| Energy | $E$ | J | Kinetic + potential energy |
+
+---
+
+# Part 2: Solving Wavefunctions in One Dimension
+
+## 2.1 Infinite Square Well (1D Box)
+
+- Particle confined between $x = 0$ and $x = L$  
+- Potential:
+
+$$
+V(x) =
+\begin{cases}
+0 & 0 < x < L \\
+\infty & \text{otherwise}
+\end{cases}
+$$
+
+- Schrödinger equation:
+
+$$
+-\frac{\hbar^2}{2 m} \frac{d^2 \psi}{dx^2} = E \psi
+$$
+
+- Boundary conditions: $\psi(0) = \psi(L) = 0$  
+
+**Solution**:
+
+$$
+\psi_n(x) = \sqrt{\frac{2}{L}} \sin\left(\frac{n \pi x}{L}\right), \quad n = 1,2,3,...
+$$
+
+- Energy levels:
+
+$$
+E_n = \frac{n^2 \pi^2 \hbar^2}{2 m L^2}
+$$
+
+**Why:** The wavefunction must vanish at infinite walls → sine solutions.
+
+---
+
+## 2.2 Free Particle
+
+- Potential $V(x) = 0$ everywhere  
+- Schrödinger equation:
+
+$$
+-\frac{\hbar^2}{2 m} \frac{d^2 \psi}{dx^2} = E \psi
+$$
+
+- Solution: plane waves  
+
+$$
+\psi(x) = A e^{ikx} + B e^{-ikx}, \quad k = \frac{\sqrt{2 m E}}{\hbar}
+$$
+
+- Concept: The particle is **completely delocalized**, uniform probability over space.
+
+---
+
+## 2.3 Harmonic Oscillator (1D)
+
+- Potential:
+
+$$
+V(x) = \frac{1}{2} m \omega^2 x^2
+$$
+
+- Solutions involve **Hermite polynomials** $H_n(x)$:
+
+$$
+\psi_n(x) = \left(\frac{m \omega}{\pi \hbar}\right)^{1/4} \frac{1}{\sqrt{2^n n!}} H_n\left(\sqrt{\frac{m \omega}{\hbar}} x\right) e^{-m \omega x^2 / 2 \hbar}
+$$
+
+- Energy levels:  
+
+$$
+E_n = \hbar \omega \left(n + \frac{1}{2}\right)
+$$
+
+**Conceptual note:** Harmonic oscillator wavefunctions are **Gaussian-like shapes** modulated by polynomials.
+
+---
+
+# Part 3: Three-Dimensional Central Potentials
+
+## 3.1 Spherical Coordinates
+
+- Many systems are **radially symmetric**, e.g., atoms  
+- Coordinates: $r$ (radius), $\theta$ (polar), $\phi$ (azimuthal)  
 
 $$
 dV = r^2 \sin\theta \, dr \, d\theta \, d\phi
 $$
 
-- Probability of finding electron in shell of thickness \(dr\):
+- Laplacian in spherical coordinates:
 
 $$
-dP = |\psi|^2 \, dV
-$$
-
-- **Why:** Integrals over volume must give total probability = 1.
-
----
-
-## Step 3: Separate radial and angular parts
-
-$$
-\psi(r,\theta,\phi) = R(r) Y_\ell^m(\theta,\phi)
-$$
-
-- \(R(r)\) = radial function (how electron depends on distance)  
-- \(Y_\ell^m(\theta,\phi)\) = angular part (shape)  
-
-- For **s-orbitals**, \(\ell = 0\):  
-
-$$
-Y_0^0(\theta,\phi) = \frac{1}{\sqrt{4\pi}}
-$$
-
-- Dimensionless, just normalization.  
-
-**Why:** Makes equation solvable. Now we focus on \(R(r)\).
-
----
-
-## Step 4: Radial Schrödinger Equation
-
-$$
--\frac{\hbar^2}{2\mu} \left( \frac{d^2 R}{dr^2} + \frac{2}{r} \frac{dR}{dr} \right) - \frac{Z e^2}{4 \pi \epsilon_0 r} R = E R
-$$
-
-- Units check: \(\hbar^2 / 2\mu \cdot d^2/dr^2 \sim J\) ✅  
-- \(R(r)\) units: \(\mathrm{m^{-3/2}}\) to satisfy \(\int |\psi|^2 dV = 1\) ✅  
-
-### Step 4a: Substitution \(u(r) = r R(r)\)
-
-$$
--\frac{\hbar^2}{2\mu} \frac{d^2 u}{dr^2} - \frac{Z e^2}{4 \pi \epsilon_0 r} u = E u
-$$
-
-- \(u(r)\) units: \(\mathrm{m^{-1/2}}\) ✅  
-- **Why:** Converts 3D radial equation to simpler 1D form.
-
----
-
-## Step 5: Hydrogen-like solution
-
-The **general solution** for hydrogen-like atoms:
-
-$$
-R_{n\ell}(r) = \sqrt{\left(\frac{2 Z}{n a_\mu}\right)^3 \frac{(n-\ell-1)!}{2n [(n+\ell)!]}} \, e^{-\rho/2} \, \rho^\ell \, L_{n-\ell-1}^{2\ell+1}(\rho)
-$$
-
-- \(\rho = \frac{2 Z r}{n a_\mu}\) dimensionless  
-- \(a_\mu = \frac{4 \pi \epsilon_0 \hbar^2}{\mu e^2}\) = Bohr radius with reduced mass  
-
-**Check units:**  
-
-- \(a_\mu\) → meters ✅  
-- \(R(r)\) → m^{-3/2} ✅  
-- \(\rho\) → dimensionless ✅  
-
----
-
-## Step 6: Bohr radius with reduced mass for sulfur
-
-$$
-a_\mu = \frac{4 \pi \epsilon_0 \hbar^2}{\mu e^2} \approx 5.315 \times 10^{-11}\ \mathrm{m}
-$$
-
-- Slightly smaller than the standard Bohr radius because nucleus moves slightly.
-
----
-
-## Step 7: 3s orbital for sulfur
-
-- \(n = 3, \ell = 0, Z = 16\)  
-
-$$
-\rho = \frac{2 Z r}{n a_\mu} = \frac{32 r}{3 a_\mu}
-$$
-
-$$
-R_{3s}(r) = \frac{2}{81 \sqrt{3}} \left( \frac{16}{a_\mu} \right)^{3/2} \left( 27 - 18 \rho + 2 \rho^2 \right) e^{-\rho/2}
-$$
-
-Substitute \(\rho = 32 r / 3 a_\mu\):
-
-$$
-\boxed{
-R_{3s}(r) = \frac{2}{81 \sqrt{3}} \left( \frac{16}{a_\mu} \right)^{3/2} \left( 27 - 192 \frac{r}{a_\mu} + \frac{2048}{9} \frac{r^2}{a_\mu^2} \right) e^{-16 r / 3 a_\mu}
-}
-$$
-
-- Units: m^{-3/2} ✅  
-
----
-
-## Step 8: Radial probability density
-
-$$
-P_{3s}(r) = r^2 |R_{3s}(r)|^2
-$$
-
-- Units: \(r^2 \sim m^2\), \(R^2 \sim m^{-3}\), so \(P(r) \sim m^{-1}\) ✅  
-- Integral over all r: \(\int_0^\infty P_{3s}(r) dr = 1\) (electron must exist somewhere)  
-
-Explicit formula:
-
-$$
-\boxed{
-P_{3s}(r) = r^2 \left[ \frac{2}{81 \sqrt{3}} \left(\frac{16}{a_\mu}\right)^{3/2} \left( 27 - 192 \frac{r}{a_\mu} + \frac{2048}{9} \frac{r^2}{a_\mu^2} \right) e^{-16 r / 3 a_\mu} \right]^2
-}
+\nabla^2 = \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial}{\partial r} \right) + \frac{1}{r^2 \sin\theta} \frac{\partial}{\partial \theta} \left( \sin\theta \frac{\partial}{\partial \theta} \right) + \frac{1}{r^2 \sin^2\theta} \frac{\partial^2}{\partial \phi^2}
 $$
 
 ---
 
-## Step 9: Summary of all units (dimensional analysis)
+## 3.2 Hydrogen-like Atom
 
-| Quantity | Symbol | Units | Explanation |
-|----------|--------|-------|-------------|
-| Distance from nucleus | r | m | Radius |
-| Reduced mass | μ | kg | μ = m_e M / (m_e + M) |
-| Planck constant | ℏ | J·s | Kinetic energy factor |
-| Electron charge | e | C | Potential energy factor |
-| Permittivity | ε₀ | C²/(N·m²) | Coulomb law |
-| Radial wavefunction | R(r) | m^{-3/2} | Normalization ensures total probability = 1 |
-| Radial probability | P(r) | m^{-1} | Probability density for radial shell |
-| Dimensionless radius | ρ | — | ρ = 2 Z r / n a_μ |
+- Potential:
+
+$$
+V(r) = -\frac{Z e^2}{4 \pi \epsilon_0 r}
+$$
+
+- Separate variables:  
+
+$$
+\psi(r, \theta, \phi) = R(r) Y_\ell^m(\theta, \phi)
+$$
+
+- Radial equation:
+
+$$
+-\frac{\hbar^2}{2 \mu} \left( \frac{d^2 R}{dr^2} + \frac{2}{r} \frac{dR}{dr} - \frac{\ell(\ell+1)}{r^2} R \right) - \frac{Z e^2}{4 \pi \epsilon_0 r} R = E R
+$$
+
+- Angular part: **Spherical harmonics** $Y_\ell^m$  
+- **Quantum numbers:** $n$, $\ell$, $m$  
+
+---
+
+## 3.3 Steps to Solve Any Orbital
+
+1. Determine **$Z$**, the nuclear charge  
+2. Include **reduced mass**:
+
+$$
+\mu = \frac{m_e M}{m_e + M}
+$$
+
+3. Solve **radial Schrödinger equation**  
+4. Solve **angular Schrödinger equation** → $Y_\ell^m$  
+5. Combine radial and angular parts:
+
+$$
+\psi_{n\ell m}(r, \theta, \phi) = R_{n\ell}(r) Y_\ell^m(\theta, \phi)
+$$
+
+6. Normalize the wavefunction:
+
+$$
+\int_0^\infty \int_0^\pi \int_0^{2\pi} |\psi_{n\ell m}(r,\theta,\phi)|^2 r^2 \sin\theta \, dr \, d\theta \, d\phi = 1
+$$
