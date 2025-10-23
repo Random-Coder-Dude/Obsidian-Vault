@@ -1,1 +1,0 @@
-$$\sigma_p=\sqrt{\sum_{i=1}^N}w_i^2\sigma_i^2\sum_{i=1,j=1,i\neq j}^Nw_iw_jP_{ij}\sigma_i\sigma_j$$

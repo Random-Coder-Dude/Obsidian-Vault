@@ -1,9 +1,0 @@
-/* Change color of all bolded text */
-.markdown-preview-view strong {
-  color: #ff6f61; /* Change to any color you like */
-}
-
-/* For live preview (editable mode) */
-.cm-strong {
-  color: #ff6f61 !important;
-}

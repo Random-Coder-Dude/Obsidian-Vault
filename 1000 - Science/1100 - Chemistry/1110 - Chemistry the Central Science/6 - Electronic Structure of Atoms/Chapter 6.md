@@ -4,5 +4,8 @@ tags:
   - Chemistry
   - "#Ch6"
 cssclasses:
-  - default
+  - navigation
 ---
+[[6.1 - The Wave Nature of Light]]
+[[6.2 - Quantized Energy and Photons]]
+[[6.3 - Line Spectra and the Bohr Model]]
