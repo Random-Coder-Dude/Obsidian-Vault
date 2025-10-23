@@ -1,0 +1,444 @@
+{
+  "workspaces": {
+    "Main": {
+      "main": {
+        "id": "291666637bf292fc",
+        "type": "split",
+        "children": [
+          {
+            "id": "36b7bd53620b918c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d16a40ea6fc86421",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Main.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Main"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "02302ae70f6109be",
+        "type": "split",
+        "children": [
+          {
+            "id": "f430755fb578a15c",
+            "type": "tabs",
+            "dimension": 67.47474747474747,
+            "children": [
+              {
+                "id": "6f9ea4536d9bc1c5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "e30197d9390f138b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#The",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "e6691d3e624481d7",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "68be5018acac0437",
+            "type": "tabs",
+            "dimension": 32.525252525252526,
+            "children": [
+              {
+                "id": "e108e2b2f42c41da",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "70d7e6660b209888",
+        "type": "split",
+        "children": [
+          {
+            "id": "04c244e94b1e3506",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "38cc336193f977df",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Chemistry/Introduction, Matter and Measurement/The Study of Chemistry.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for The Study of Chemistry"
+                }
+              },
+              {
+                "id": "6feabaaa7bdac02d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Chemistry/Dictionary.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Dictionary"
+                }
+              },
+              {
+                "id": "f4090fff2e079767",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "2164aa7b96a15257",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Main.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Main"
+                }
+              },
+              {
+                "id": "0fc55cd2f6508159",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 239.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "pexels-banner:🚩 Pixel Banner Menu": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "find-orphaned-images:Find orphaned images": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "homepage:Open homepage": false
+        }
+      },
+      "active": "d16a40ea6fc86421",
+      "mtime": "2025-07-26T12:25:30-07:00"
+    },
+    "Work": {
+      "main": {
+        "id": "291666637bf292fc",
+        "type": "split",
+        "children": [
+          {
+            "id": "7476dbe7badff6eb",
+            "type": "split",
+            "children": [
+              {
+                "id": "b3acabfd62405c4b",
+                "type": "tabs",
+                "dimension": 80.62015503875969,
+                "children": [
+                  {
+                    "id": "f4050089e3743dba",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {},
+                      "icon": "lucide-file",
+                      "title": "New tab"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "328b5c7000e7db7e",
+                "type": "tabs",
+                "dimension": 19.379844961240313,
+                "children": [
+                  {
+                    "id": "e72bf9cf7b110122",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Chemistry/Dictionary.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Dictionary"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "02302ae70f6109be",
+        "type": "split",
+        "children": [
+          {
+            "id": "f430755fb578a15c",
+            "type": "tabs",
+            "dimension": 67.47474747474747,
+            "children": [
+              {
+                "id": "6f9ea4536d9bc1c5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "e30197d9390f138b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#The",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "e6691d3e624481d7",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "68be5018acac0437",
+            "type": "tabs",
+            "dimension": 32.525252525252526,
+            "children": [
+              {
+                "id": "e108e2b2f42c41da",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "70d7e6660b209888",
+        "type": "split",
+        "children": [
+          {
+            "id": "04c244e94b1e3506",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "38cc336193f977df",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Chemistry/Introduction, Matter and Measurement/The Study of Chemistry.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for The Study of Chemistry"
+                }
+              },
+              {
+                "id": "6feabaaa7bdac02d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Chemistry/Dictionary.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Dictionary"
+                }
+              },
+              {
+                "id": "f4090fff2e079767",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "2164aa7b96a15257",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "0fc55cd2f6508159",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-git:Open Git source control": false,
+          "pexels-banner:🚩 Pixel Banner Menu": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "find-orphaned-images:Find orphaned images": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "homepage:Open homepage": false
+        }
+      },
+      "active": "f4050089e3743dba",
+      "mtime": "2025-07-27T14:34:56-07:00"
+    }
+  },
+  "active": "Main"
+}

@@ -1,0 +1,4 @@
+/* Hide the "banner" property */
+.metadata-property[data-property-key="banner"] {
+    display: none !important;
+}
