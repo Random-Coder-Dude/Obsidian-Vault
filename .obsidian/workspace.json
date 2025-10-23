@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/index.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Bonus - Study Guide"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/Testing.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Testing"
+              "title": "Outline of Bonus - Study Guide"
             }
           },
           {
@@ -204,14 +204,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6f9ea4536d9bc1c5",
+  "active": "d16a40ea6fc86421",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
     "1000 - Science/1100 - Chemistry/Testing.md",
+    "Main.md",
     "1000 - Science/1100 - Chemistry/index.md",
     "README.md",
-    "Main.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
     "Images/Pasted image 20251018211343.png",
     "Images/Pasted image 20251018205437.png",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.2 - Quantized Energy and Photons.md",
