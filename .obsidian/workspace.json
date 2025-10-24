@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "Bonus - Study Guide"
+            }
+          },
+          {
+            "id": "b234c39228188c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Ch 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch 7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Ch 7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Main"
+              "title": "Outline of Ch 7"
             }
           },
           {
@@ -204,12 +219,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d16a40ea6fc86421",
+  "active": "b234c39228188c19",
   "lastOpenFiles": [
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Ch 7.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends",
+    "Main.md",
     "conflict-files-obsidian-git.md",
     "1000 - Science/1100 - Chemistry/Testing.md",
-    "Main.md",
     "1000 - Science/1100 - Chemistry/index.md",
     "README.md",
     "Images/Pasted image 20251018211343.png",
@@ -220,7 +237,6 @@
     "Images/Pasted image 20251017125026.png",
     "Images/Pasted image 20251017125013.png",
     "Images/Pasted image 20251017124941.png",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Untitled.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.1 - The Wave Nature of Light.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.3 - Line Spectra and the Bohr Model.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/6.4 - The Wave Behavior of Matter.md",
@@ -237,7 +253,6 @@
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.1 - The Nature of Energy.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/4 - Reactions in Aqueous Solution/4.6 - Solution Stoichiometry and Chemical Analysis.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.8 - Food and Fuels.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.7 - Enthalpies of Formation.md",
     "Images/Pasted image 20251012205244.png",
     "Images/Pasted image 20251012204926.png",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms",
@@ -251,7 +266,6 @@
     "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1/Exercises",
     "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1/Notes",
     "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1",
-    "Images",
-    "2000 - Math/2900 - Theorems, Axioms, Properties, and Functions/2940 - Functions"
+    "Images"
   ]
 }
