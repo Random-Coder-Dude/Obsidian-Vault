@@ -1,0 +1,14 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Obuntu",
+  "enabledCssSnippets": [
+    "Daily Note Themes",
+    "Property Manager",
+    "Bolded Color",
+    "dataview",
+    "homepage",
+    "font",
+    "Navigation",
+    "Heatmap"
+  ]
+}

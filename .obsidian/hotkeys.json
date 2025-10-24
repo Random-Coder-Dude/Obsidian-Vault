@@ -1,0 +1,110 @@
+{
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:create-Templates/(TEMPLATE) Daily.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "templater-obsidian:Templates/Auto Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "templater-obsidian:Templates/Daily Note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "quote-of-the-day:qotd-random": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:Templates/Angstrom.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "templater-obsidian:9000 - Templates/Daily Note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "templater-obsidian:9000 - Templates/Angstrom.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "text-snippets-obsidian:text-snippets": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-git:commit-smart": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F1"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F2"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F3"
+    }
+  ],
+  "templater-obsidian:9000 - Templates/Auto Template.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "`"
+    }
+  ]
+}
