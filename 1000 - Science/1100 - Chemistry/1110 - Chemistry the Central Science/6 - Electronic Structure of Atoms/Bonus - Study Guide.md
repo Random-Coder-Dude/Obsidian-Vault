@@ -84,7 +84,7 @@ $$\frac{20kJ}{1mol}\cdot\frac{1000J}{1kJ}\cdot\frac{1mol}{6.02\cdot10^{23}photon
 Solve for $\lambda$
 You should have gotten
 
-$$6.0\cdot10^{-6}(m)=\lambda(m)$$
+$$6.0\cdot10^{-6}m=\lambda$$
 
 So our final answer is $6.0\cdot10^{-6}m$
 
