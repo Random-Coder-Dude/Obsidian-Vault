@@ -1,5 +1,5 @@
 ---
-date: 2025-10-26T19:21:00
+date: 2025-10-24T19:21:00
 tags:
   - Chemistry
 cssclasses:

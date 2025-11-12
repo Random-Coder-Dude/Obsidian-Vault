@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Untitled.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Chapter 7.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Chapter 7"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Untitled.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Chapter 7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Chapter 7"
             }
           },
           {
@@ -236,13 +236,13 @@
   "active": "62fbf6148cd4190e",
   "lastOpenFiles": [
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Ch 7 Study Guide.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Untitled.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Chapter 7.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/8 - Basio Concepts of Chemical Bonding/Chapter 8.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/8 - Basio Concepts of Chemical Bonding",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/7.2 - Effective Nuclear Charge.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/7.1 - Development of the Periodic Table.md",
     "conflict-files-obsidian-git.md",
     "Main.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Chapter 7.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/Bonus - Study Guide.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends",
     "1000 - Science/1100 - Chemistry/Testing.md",
