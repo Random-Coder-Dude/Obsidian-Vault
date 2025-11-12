@@ -10,5 +10,6 @@
   "mousewheel-image-zoom",
   "heatmap-tracker",
   "obsidian-vault-statistics-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tikzjax"
 ]
