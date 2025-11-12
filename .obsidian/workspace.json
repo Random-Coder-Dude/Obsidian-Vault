@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Ch 7 Study Guide"
             }
+          },
+          {
+            "id": "62fbf6148cd4190e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Ch 7 Study Guide.md",
+                "file": "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ch 7 Study Guide"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -219,11 +233,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "355f88135a195cde",
+  "active": "62fbf6148cd4190e",
   "lastOpenFiles": [
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Ch 7 Study Guide.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Untitled.md",
+    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/8 - Basio Concepts of Chemical Bonding",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/7.2 - Effective Nuclear Charge.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms/7.1 - Development of the Periodic Table.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Ch 7 Study Guide.md",
     "conflict-files-obsidian-git.md",
     "Main.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/7 - Periodic Trends/Chapter 7.md",
@@ -253,7 +269,6 @@
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.6 - Quantitative Information from Balanced Equations.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/3 - Stoichiometry, Calculations with Chemical Formulas and Equations/3.4 - Avogadro's Number and the Mole.md",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.3 - Enthalpy.md",
-    "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/5 - Thermochemistry/5.1 - The Nature of Energy.md",
     "Images/Pasted image 20251012205244.png",
     "Images/Pasted image 20251012204926.png",
     "1000 - Science/1100 - Chemistry/1110 - Chemistry the Central Science/6 - Electronic Structure of Atoms",
@@ -266,7 +281,6 @@
     "Untitled.canvas",
     "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1/Exercises",
     "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1/Notes",
-    "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1",
-    "Images"
+    "2000 - Math/2100 - Logic/2110 - Book of Proof/Part I/Chapter 1"
   ]
 }
