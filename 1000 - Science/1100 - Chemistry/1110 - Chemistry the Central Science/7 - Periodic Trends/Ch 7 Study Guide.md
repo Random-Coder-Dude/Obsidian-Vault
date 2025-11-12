@@ -11,7 +11,7 @@ cssclasses:
 The *atomic radius* is the distance between the nucleus and the outermost electrons of an atom.
 
 - **Bonding atomic radius (r):**  
-  \( r = \frac{1}{2} d \)  
+  $( r = \frac{1}{2} d )$  
   where *d* = distance between two nuclei in a molecule.
 - **Ionic radius:**  
   Determined from interatomic distances in ionic compounds.
@@ -202,5 +202,3 @@ Atoms gain, lose, or share electrons to reach a stable configuration with **8 va
 ###  Oxidation States
 12. Compare Fe²⁺ and Fe³⁺ in terms of radius and ionization energy.  
 13. Which oxidation state of iron has the highest electron affinity?
-
----
